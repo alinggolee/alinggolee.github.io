@@ -13,4 +13,4 @@ Understanding Digital Gender-Based Violence (B1-B2 Level)
 
 ## ESP
 
-Please refer to the ESP section for details.
+Analyzing Digital Harm through Professional Language

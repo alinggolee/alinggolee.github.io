@@ -1,20 +1,13 @@
-# Theme: From Parenting to Social Structure — Deconstructing the "Default Family" Script
+# From Parenting to Social Structure — Deconstructing the "Default Family" Script
 
-## 🎯 Weekly Learning Goals
-
-By the end of this lesson, we will achieve the following:
-
-- Analyze how gender norms influence parenting expectations.
-- Explain how privilege operates within family structures.
-- Evaluate how different family forms challenge traditional gender roles.
-- Use academic English to discuss gender and parenting critically.
-## 🧠 Theoretical Core: Parenting as Social Regulation
+## heoretical Core: Parenting as Social Regulation
 
 Parenting is often framed as a "private choice," but it is deeply regulated by social systems.
 
 - Informal Laws: Social norms act as informal laws. Expectations about being a "good parent" or raising a "normal child" monitor and adjust our behavior more effectively than formal legislation.
 - Institutional Practices: Privilege is built into institutions—from school enrollment forms to counseling systems—that often assume a heteronormative "default family".
-💡 Engaging Discussion Questions
+
+## Engaging Discussion Questions
 
 ### The Silent Judgment:
 

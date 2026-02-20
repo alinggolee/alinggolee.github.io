@@ -1,20 +1,13 @@
-# Theme: Understanding Digital Gender-Based Violence (B1-B2 Level)
+# Understanding Digital Gender-Based Violence (B1-B2 Level)
 
-## 🎯 Weekly Learning Goals
-
-By the end of this lesson, we will achieve the following:
-
-- Reflect on your own digital journey and daily online habits.
-- Analyze how simple online interactions can escalate into digital gender-based violence.
-- Examine how media represents modern adolescent cases.
-- Evaluate the current situation of prevention, focusing on the role of algorithms and big tech platforms.
-## 🧠 Theoretical Core: How Systems Shape Harm
+## Theoretical Core: How Systems Shape Harm
 
 Digital harm is not just about "bad individuals"; it is about how our digital environment is built.
 
 - Algorithmic Amplification: Digital platforms want to keep you scrolling. Their algorithms often prioritize "engagement," which means provocative or harmful gendered messages often get the most views.
 - Disproportionate Impact: Digital violence does not affect everyone equally. It has a disproportionate impact on marginalized identities, reflecting existing power imbalances in our society.
-💡 Engaging Discussion Questions
+
+## Engaging Discussion Questions
 
 ### The Digital Mirror: Have you noticed how your "For You" page or feed influences your ideas about gender roles?
 
@@ -22,6 +15,6 @@ Digital harm is not just about "bad individuals"; it is about how our digital en
 
 ### Structural Change: Instead of just teaching victims to "block and report," how can we demand a structural reform of the digital systems themselves?
 
-## 💬 Closing Synthesis
+## Closing Synthesis
 
 "Digital gender-based violence is a systemic issue. To stop it, we must move from individual reactions to structural transformation. Prevention is not just about being safe; it’s about changing the digital architecture".

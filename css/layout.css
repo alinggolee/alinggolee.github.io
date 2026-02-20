@@ -28,8 +28,7 @@
 .page-wrapper {
     display: flex;
     min-height: calc(100vh - 50px);
-    margin-top: 50px;
-    /* Offset for global header */
+    /* Offset moved to body padding */
 }
 
 .main-content {
@@ -85,7 +84,7 @@ body.is-directory .content-area {
    ======================================== */
 .top-nav {
     position: sticky;
-    top: 0;
+    top: 50px;
     /* Sticky relative to main-content scrolling container */
     /* Below global header */
     height: 40px;

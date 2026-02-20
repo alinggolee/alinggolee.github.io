@@ -12,4 +12,4 @@
 
 ## ESP
 
-詳細內容請見 ESP 頁面。
+批判性思考與結構分析的語言 (The Language of Critical Thinking)

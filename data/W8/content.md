@@ -1,20 +1,13 @@
-# 主題：從文化規範到結構正當性——看見無所不在的 Gaya (From Cultural Code to Structural Legitimacy)
+# 從文化規範到結構正當性——看見無所不在的 Gaya (From Cultural Code to Structural Legitimacy)
 
-## 🎯 每週學習目標 (Weekly Learning Goals)
-
-在本課結束時，我們將一起達成以下目標：
-
-- 解釋 Gaya 如何作為一套性別規範系統運作。
-- 分析 文化規則如何透過正當性與權威來規訓性別角色。
-- 運用 結構理論，將 Gaya 與家庭中的性別規範進行比較。
-- 應用 交織性思考（Intersectional thinking）分析文化性別系統。
-## 🧠 理論核心：Gaya 作為一種規制系統 (Gaya as a Regulatory System)
+## 理論核心：Gaya 作為一種規制系統 (Gaya as a Regulatory System)
 
 我們這週要練習把 Gaya 從「有趣的傳統」提升到「結構分析」的層次。
 
 - 規範與權力： 根據第七章與第八章的理論，規範是受社會期待強化的非正式規則。當這些規範被賦予神聖性，它們就變得具有「結構性」；當它們被強制執行，它們就變成了「權力」。
 - 性別角色形成： 傳統上，Gaya 規定男獵女織，這反映了「規範叢集」如何形塑固定的性別角色（規範 → 角色 → 期待 → 規訓）。
-## 🎬 吸引人的討論主題 (Engaging Themes & Discussions)
+
+## 吸引人的討論主題 (Engaging Themes & Discussions)
 
 ### 「老天爺在看」的數位升級版？ (Is Gaya Like an Invisible CCTV?)：
 
@@ -26,6 +19,7 @@ Gaya 常被視為祖靈的保護與祝福，但它同時也是一張令人敬畏
 探討特權如何包含「定義規範的權威」。
 
   - 人性化提問： 當規則被打破時，誰有權力決定誰該受罰？在你的家庭或社群中，為什麼有些人的話總是比較有份量？這種「被信任的權力」與性別或特權有關係嗎？
-## 💬 結語 (Teacher’s Closing Reflection)
+
+## 結語 (Teacher’s Closing Reflection)
 
 「Gaya 不僅僅是傳統，它是一套規制系統。每個社會都有自己的 Gaya——有些是成文的，有些是宗教的，有些則是隱形的。當我們分析太魯閣族文化時，我們並不是在看『別人』，而是在學習看見我們『自己』的結構。因為當你拿掉 Gaya 這個詞，剩下的就是家庭規則、性別期待與特權分配。這週教會我們：結構無所不在」。

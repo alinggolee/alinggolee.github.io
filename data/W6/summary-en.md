@@ -13,4 +13,4 @@ From Parenting to Social Structure — Deconstructing the "Default Family" Scrip
 
 ## ESP
 
-Please refer to the ESP section for details.
+Inclusive Language and Structural Analysis in Family Contexts

@@ -7,14 +7,8 @@
 
 ## 課程內容
 
-在本課中，我們將學習性別是如何被社會建構出來的。我們將探討 SOGIESC 架構的四個層面，學會辨識日常生活與童書中隱含的性別刻板印象，並反思自己的名字背後可能帶有的性別期待。
-
-- **🌟 核心概念：** 了解性別如何社會化，認識 SOGIESC 四個面向。
-- **💬 焦點活動：** [探索童書數據故事](https://pudding.cool/2025/07/kids-books/)、姓名的重量。
+從故事到結構——性別社會化的起點 (From Stories to Structure: The Beginning of Gender Socialization)
 
 ## ESP
 
-學習如何使用英語表達與分析性別社會化相關的議題。我們將掌握關鍵字彙，並透過 TEEMI 練習如何專業地表達觀察結果並陳述原因。
-
-- **📚 重要字彙：** Stereotype, Socialization, Expectation.
-- **🗣️ TEEMI 任務：** 使用專業句型描述並反思童書中的性別模式。
+性別與社會化的語言 (The Language of Gender and Socialization)

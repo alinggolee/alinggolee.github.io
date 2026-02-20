@@ -12,4 +12,4 @@
 
 ## ESP
 
-詳細內容請見 ESP 頁面。
+吸引力與傾向的專業語言 (The Language of Attraction and Orientation)

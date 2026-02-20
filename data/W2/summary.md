@@ -12,4 +12,4 @@
 
 ## ESP
 
-詳細內容請見 ESP 頁面。
+命名傳統的語言分析 (The Language of Naming Traditions)

@@ -12,4 +12,4 @@ Media Literacy, Gender, and Critical Thinking
 
 ## ESP
 
-Please refer to the ESP section for details.
+The Language of Structural Awareness and Media Analysis

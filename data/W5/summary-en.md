@@ -12,4 +12,4 @@ Sexual Orientation, Attraction, and Structural Understanding
 
 ## ESP
 
-Please refer to the ESP section for details.
+The Language of Desire and Structural Power

@@ -13,4 +13,4 @@
 
 ## ESP
 
-詳細內容請見 ESP 頁面。
+描述變遷與主體性的語言 (The Language of Change and Agency)

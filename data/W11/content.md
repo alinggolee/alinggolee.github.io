@@ -1,46 +1,32 @@
-# Theme: From Aesthetic Pressure to Internalized Discipline
+# 從審美壓力到內化的紀律（From Aesthetic Pressure to Internalized Discipline）
 
-## 🎯 Weekly Learning Goals
+## Theoretical Core: The Shift from Regulation to Discipline（理論核心：從管控到規訓）
 
-By the end of this lesson, you will be able to:
+在本週的課程中，我們將探討權力運作方式的轉變。如果說上週的「騷擾」是可見的權力行使，那麼本週的「身體規訓」則是一種無形的、隱形的權力 。
 
-- Explain how beauty standards function as mechanisms for gender regulation.
-- Analyze how patriarchy disciplines both femininity and masculinity.
-- Identify the phenomenon of "internalized body surveillance".
-- Critically evaluate the influence of media and commercial industries on body norms.
-- Propose alternative representations that resist the current aesthetic hierarchy.
-## 🧠 Theoretical Core: The Shift from Regulation to Discipline
+- 自我規訓（Self-Regulation）： 審美標準不僅是外部的壓力，更會轉化為一種「內化的紀律」。當我們在照鏡子或挑選衣服時，往往會無意識地用社會的眼光來評判自己 。
+- 審美階層（Aesthetic Hierarchy）： 社會建立了一套高低有別的審美標準，將某些特徵（如瘦、白、符合性別刻板印象）置於階層頂端，而將其他特徵排斥在外 。
+- 商品化（Commodification）： 身體往往被媒體與商業轉化為商品，透過創造對容貌的焦慮來推銷產品 。
+## Engaging Themes & Discussions（吸引人的主題與討論）
 
-While harassment represents a visible use of power, body discipline operates through invisible power. In this stage of socialization, gender norms move from external enforcement to internalization.
+我們將透過多個具代表性的案例，分析審美標準如何塑造我們的自我認同：
 
-+2
+- 《像女孩一樣》（#LikeAGirl）： 分析為什麼「像女孩」在社會語言中常帶有負面含義，以及這如何影響青少年的自我形象 。
+- 黑人女性的身體經驗（Black Girls Documentary）： 探討在多元交織性（Intersectionality）下，不同族群如何面對審美觀的抗爭 。
+- 大尺碼名模的挑戰（Ashley Graham TED Talk）： 反思媒體如何定義「美」，以及如何打破單一的身體規範 。
+- 媒體的惡意（Titanic – Rose）： 討論大眾媒體如何透過細微的負面描寫來規訓女性的體態 。
 
-### The Body as a Regulated Site: Gender policing extends to the physical body, regulating size, posture, muscle, and even skin .
+## Critical Inquiry Questions（深度思考問題）：
 
-### Gendered Discipline: Under the aesthetic hierarchy, women are often told to shrink (be thin and soft), while men are told to expand (be tall and muscular). Both groups are controlled, but in different ways.
+### 「身體監控」如何像一個「隱形的籠子」？ 我們每天花多少時間在思考自己的外觀是否符合他人的期待？
 
-### Commodification of Insecurity: Insecurity is profitable. Industries such as beauty products, cosmetic surgery, and fitness supplements benefit when people feel their natural bodies are "not enough" .
+### 誰是審美標準的受益者？ 當我們感到焦慮時，誰在背後獲得了商業利益？
 
-+1
+### 媒體如何強化這種階層？ 如果媒體中只有一種「完美的身體」，這對大眾的自尊心會產生什麼影響？
 
-## 🎬 Engaging Themes & Critical Discussions
+### 我們如何抵制這種規訓？ 我們能提出哪些不包含暴力、充滿包容性的身體敘事？
 
-We will explore these concepts through diverse media narratives:
+## Teacher’s Closing Script（結語）
 
-- The #LikeAGirl Campaign: How language shapes self-regulation and identity .
-- Ashley Graham’s Body Positivity: Analyzing if empowerment is sometimes used as a branding tool .
-- Media Malice (The Titanic Case): Discussing how the media attacked Kate Winslet’s weight, reinforcing the idea that women must be thin to be "worthy" .
-- The Mask You Live In: Exploring the emotional cost of "Hegemonic Masculinity" and the pressure on men to suppress vulnerability .
-💡 Deep Inquiry Questions:
+性別規範並不總是震耳欲聾的，有時它只是在我們耳邊低語：「你不夠好。」當我們能看見這些隱形的低語時，我們就能重新掌握自己的主體性。第 11 週教導我們：權力不一定是以暴力的形式出現，它也隱藏在我們的愛美之心與自我批判中 。
 
-### The "Invisible Cage": How much time do we spend daily monitoring our appearance to meet social expectations?
-
-### The Profit of Shame: Who benefits financially when you feel unhappy with a specific part of your body?
-
-### Self-Surveillance: In the age of social media and filters, how do we become both the "watcher" and the "watched"?
-
-### Resisting the Norm: Can we imagine a media representation that values health and diversity over a strict aesthetic hierarchy?
-
-## 💬 Teacher’s Closing Script
-
-"Harassment uses force; beauty uses mirrors . While harassment silences through fear, beauty standards silence through constant comparison . Power is not always loud. Sometimes it whispers: 'You are not enough' . When we recognize that whisper, we reclaim our agency".

@@ -195,10 +195,9 @@
     width: 100%;
 }
 
-/* Bottom row: 影片 / 活動 / TEAMI side by side */
 .lesson-bottom-row {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     gap: var(--space-xl);
     border-top: 1px solid var(--color-border);
     padding-top: var(--space-lg);

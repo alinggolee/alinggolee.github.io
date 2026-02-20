@@ -12,4 +12,4 @@ Gender Concepts & Naming — From Personal Identity to Social Expectation
 
 ## ESP
 
-Please refer to the ESP section for details.
+Analyzing Cultural Symbols and Naming Traditions

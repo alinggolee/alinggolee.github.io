@@ -13,4 +13,4 @@ Sexual Harassment: Power, Consent, and Structure (B1-B2 Level)
 
 ## ESP
 
-Please refer to the ESP section for details.
+The Language of Consent and Institutional Accountability

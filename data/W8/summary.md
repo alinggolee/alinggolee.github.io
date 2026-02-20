@@ -13,4 +13,4 @@
 
 ## ESP
 
-詳細內容請見 ESP 頁面。
+文化分析與社會控制的語言 (The Language of Cultural Analysis)

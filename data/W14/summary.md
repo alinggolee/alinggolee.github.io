@@ -8,4 +8,4 @@
 
 ## ESP
 
-詳細內容請見 ESP 頁面。
+引導與倡議的語言 (The Language of Facilitation and Advocacy)

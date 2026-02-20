@@ -13,4 +13,4 @@ Final Structural Integration: Reflection and Responsibility
 
 ## ESP
 
-Please refer to the ESP section for details.
+Synthesizing Impact through Professional Voice

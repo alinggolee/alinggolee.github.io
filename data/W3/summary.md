@@ -12,4 +12,4 @@
 
 ## ESP
 
-詳細內容請見 ESP 頁面。
+性別表現的專業語言 (The Language of Gender Expression)

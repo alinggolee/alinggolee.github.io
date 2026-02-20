@@ -12,4 +12,4 @@
 
 ## ESP
 
-詳細內容請見 ESP 頁面。
+特權與權威的分析語言 (The Language of Privilege and Authority)

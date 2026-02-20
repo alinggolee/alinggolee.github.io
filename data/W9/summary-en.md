@@ -13,4 +13,4 @@ Tradition, Change, and Gendered Identity (B1-B2 Level)
 
 ## ESP
 
-Please refer to the ESP section for details.
+The Language of Adaptation and Personal Agency

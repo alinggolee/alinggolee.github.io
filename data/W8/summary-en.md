@@ -13,4 +13,4 @@ Diversity and Structural Inequality — From Cultural Code to Structural Legitim
 
 ## ESP
 
-Please refer to the ESP section for details.
+The Language of Social Regulation and Comparison

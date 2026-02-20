@@ -13,4 +13,4 @@ Digital Violence: Reflecting on Stories and Limits
 
 ## ESP
 
-Please refer to the ESP section for details.
+Analyzing Structure and Prevention in Digital Violence

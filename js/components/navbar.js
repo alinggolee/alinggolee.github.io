@@ -48,14 +48,14 @@ export function renderNavbar(lessonId, activeSection, lessonData = null) {
         langBtn.id = 'nav-lang-toggle';
         langBtn.className = 'nav-btn lang-toggle-btn';
         langBtn.setAttribute('aria-label', 'Toggle language');
-        langBtn.textContent = getLang() === 'en' ? 'EN' : '中/英';
+        langBtn.textContent = getLang() === 'en' ? 'Switch to Bilingual' : 'Switch to EN';
         langBtn.style.marginLeft = '8px';
 
         globalHeader.appendChild(langBtn);
 
         langBtn.addEventListener('click', () => {
             const next = toggleLang();
-            langBtn.textContent = next === 'en' ? 'EN' : '中/英';
+            langBtn.textContent = next === 'en' ? 'Switch to Bilingual' : 'Switch to EN';
             location.reload(); // Reload page to apply language
         });
     }

@@ -8,4 +8,4 @@ Advocacy & Educational Design: Facilitating "Ready for an Adventure!"
 
 ## ESP
 
-Please refer to the ESP section for details.
+The Language of Facilitation, Ethics, and Advocacy

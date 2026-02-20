@@ -13,4 +13,4 @@
 
 ## ESP
 
-詳細內容請見 ESP 頁面。
+分析數位體系的專業語言 (The Language of Digital Systems)

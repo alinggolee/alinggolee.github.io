@@ -12,4 +12,4 @@ Gender Expression — Masculine, Feminine, and Androgynous
 
 ## ESP
 
-Please refer to the ESP section for details.
+The Vocabulary of Presentation and Identity

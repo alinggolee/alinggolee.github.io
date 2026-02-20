@@ -12,4 +12,4 @@ Genderbread Person, Trans Experience & Structural Privilege
 
 ## ESP
 
-Please refer to the ESP section for details.
+Analyzing Structure and Legitimacy in Academic English

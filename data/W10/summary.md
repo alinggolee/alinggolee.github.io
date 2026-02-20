@@ -13,4 +13,4 @@
 
 ## ESP
 
-詳細內容請見 ESP 頁面。
+分析安全與責任的語言 (The Language of Safety and Accountability)

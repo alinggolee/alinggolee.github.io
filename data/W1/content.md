@@ -1,15 +1,8 @@
 # 課程內容
 
-主題：從故事到結構——性別社會化的起點 (From Stories to Structure: The Beginning of Gender Socialization)
+從故事到結構——性別社會化的起點 (From Stories to Structure: The Beginning of Gender Socialization)
 
-## 🎯 每週學習目標 (Weekly Learning Goals)
-
-在本課結束時，我們將一起達成以下目標：
-- **理解** 性別是社會建構的產物，而非純粹的生理決定。
-- **辨識** 日常生活與媒體中常見的性別刻板印象。
-- **使用** 基礎英語詞彙來描述性別概念並反思公平性。
-
-## 🧠 理論核心：SOGIESC 導航 (Theoretical Core: Navigating SOGIESC)
+## 理論核心：SOGIESC 導航 (Theoretical Core: Navigating SOGIESC)
 
 為了讓討論更精確且尊重多元，我們採用 SOGIESC 架構：
 - **性傾向 (Sexual Orientation)**： 個人情感或浪漫吸引的對象。
