@@ -1,4 +1,4 @@
-# Week 11｜身體與審美標準
+# Week 11｜身體與審美標準 (Body & Beauty Standards)
 
 ## Theoretical Core: The Shift from Regulation to Discipline（理論核心：從管控到規訓）
 

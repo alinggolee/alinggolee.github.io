@@ -1,4 +1,4 @@
-# Week 7 ｜性別薑餅人、跨性別經驗與特權
+# Week 7 ｜性別薑餅人、跨性別經驗與特權 (GBP, Trans Experience and Privilege)
 
 ## ESP 學習目標 (ESP ILOs)
 

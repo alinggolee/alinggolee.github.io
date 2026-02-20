@@ -1,4 +1,4 @@
-# Week 8 ｜多樣性與結構不平等（太魯閣族）
+# Week 8 ｜多樣性與結構不平等（太魯閣族）(Diversity and Structural Inequality - Truku)
 
 ## ESP 學習目標 (ESP ILOs)
 

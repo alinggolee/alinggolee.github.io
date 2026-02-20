@@ -1,4 +1,4 @@
-# Week 5 ｜性傾向
+# Week 5 ｜性傾向 (Sexual Orientation)
 
 ## ESP 學習目標 (ESP ILOs)
 

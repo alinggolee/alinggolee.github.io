@@ -1,4 +1,4 @@
-# Week 3 ｜性別特質與表現
+# Week 3 ｜性別特質與表現 (Gender expression)
 
 ## 理論核心：什麼是性別表現？ (The Essence of Gender Expression)
 

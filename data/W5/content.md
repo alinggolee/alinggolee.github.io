@@ -1,4 +1,4 @@
-# Week 5 ｜性傾向
+# Week 5 ｜性傾向 (Sexual Orientation)
 
 ## 理論核心：吸引力並非單一維度 (The Multi-dimensional Nature of Attraction)
 

@@ -1,4 +1,4 @@
-# Week 3 ｜性別特質與表現
+# Week 3 ｜性別特質與表現 (Gender expression)
 
 ## ESP 學習目標 (ESP ILOs)
 

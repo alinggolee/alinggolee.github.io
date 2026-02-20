@@ -1,4 +1,4 @@
-# Week 9 ｜傳統、變遷與性別認同
+# Week 9 ｜傳統、變遷與性別認同 (Tradition, Change, and Gendered Identity)
 
 ## 理論核心：動態平衡 (Theoretical Core: Dynamic Balance)
 

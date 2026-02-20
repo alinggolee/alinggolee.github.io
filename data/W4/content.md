@@ -1,4 +1,4 @@
-# Week 4 ｜媒體、性別與批判性思考
+# Week 4 ｜媒體、性別與批判性思考 (Media, Gender, and Critical Thinking)
 
 ## 理論核心：性別是如何被「執行」的？ (The Enforcement of Gender)
 

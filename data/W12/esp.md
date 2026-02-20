@@ -1,4 +1,4 @@
-# Week 12｜理解數位性別暴力
+# Week 12｜理解數位性別暴力 (Understanding Digital Gender-Based Violence)
 
 ## ESP 學習目標 (ESP ILOs)
 

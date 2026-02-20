@@ -1,4 +1,4 @@
-# Week 15 ｜最終結構整合
+# Week 15 ｜最終結構整合 (Final Structural Integration)
 
 ## ESP 學習目標 (ESP ILOs)
 

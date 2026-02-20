@@ -1,4 +1,4 @@
-# Week 6 ｜多樣性、性別與教養
+# Week 6 ｜多樣性、性別與教養 (Diversity, Gender, and Parenting)
 
 ## 理論核心：教養不只是「家務事」 (Parenting as Social Regulation)
 

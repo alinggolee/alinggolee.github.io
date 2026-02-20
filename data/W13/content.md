@@ -1,4 +1,4 @@
-# Week 13｜數位性別暴力：批判性反思
+# Week 13｜數位性別暴力：批判性反思 (Digital Gender-Based Violence: Critical Reflection)
 
 ## 理論核心：權力三角形 (Theoretical Core: The Power Triangle)
 

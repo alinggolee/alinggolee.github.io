@@ -1,4 +1,4 @@
-# Week 10｜性騷擾
+# Week 10｜性騷擾 (Sexual Harassment)
 
 ## 理論核心：拆解騷擾的結構 (The Anatomy of Harassment)
 

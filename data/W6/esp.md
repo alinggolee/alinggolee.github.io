@@ -1,4 +1,4 @@
-# Week 6 ｜多樣性、性別與教養
+# Week 6 ｜多樣性、性別與教養 (Diversity, Gender, and Parenting)
 
 ## ESP 學習目標 (ESP ILOs)
 

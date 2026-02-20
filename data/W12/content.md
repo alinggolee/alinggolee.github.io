@@ -1,4 +1,4 @@
-# Week 12｜理解數位性別暴力
+# Week 12｜理解數位性別暴力 (Understanding Digital Gender-Based Violence)
 
 ## 理論核心：數位傷害是如何產生的？ (The Anatomy of Digital Harm)
 

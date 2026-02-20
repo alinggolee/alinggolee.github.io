@@ -1,4 +1,4 @@
-# Week 11｜身體與審美標準
+# Week 11｜身體與審美標準 (Body & Beauty Standards)
 
 ## ESP Intended Learning Outcomes (ILOs)
 

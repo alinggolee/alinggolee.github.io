@@ -1,6 +1,4 @@
-# Week 1 ｜性別教育概論
-
-性別教育概論 (Gender Education Introduction)
+# Week 1 ｜性別教育概論 (Gender Education Introduction)
 
 ## 理論核心：SOGIESC 導航 (Theoretical Core: Navigating SOGIESC)
 

@@ -1,4 +1,4 @@
-# Week 14｜倡議與教育設計：Ready for an Adventure?（社區推廣版）
+# Week 14｜倡議與教育設計：Ready for an Adventure?（社區推廣版）(Advocacy & Educational Design: Ready for an Adventure - Community Outreach Version)
 
 ## 理論核心：數位性別倫理 (Theoretical Core: Digital Gender Ethics)
 

@@ -1,4 +1,4 @@
-# Week 15 ｜最終結構整合
+# Week 15 ｜最終結構整合 (Final Structural Integration)
 
 ## 理論核心：解放的週期 (The Cycle of Liberation)
 
