@@ -204,7 +204,7 @@ body.is-directory .content-area {
 .sidebar-lesson-btn {
     display: block;
     width: 100%;
-    padding: 5px var(--space-md);
+    padding: 10px var(--space-md);
     text-align: left;
     font-size: var(--font-size-sm);
     color: var(--color-text-secondary);

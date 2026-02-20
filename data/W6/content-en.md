@@ -19,6 +19,6 @@ Using the documentary Love Together (同愛一家) or Anima: My Father's Dress.
 Using the 4-step framework (Describe → Analyze → Vision → Action).
 
   - Humanized Question: Think of a common "moral panic" regarding diverse families (e.g., "the child will be confused"). If we replace this fear with a vision of safety and support, what is one "small win" or action we can implement in our schools today?
-## 💬 Closing Synthesis
+## Closing Synthesis
 
 "Parenting is a social practice. When diversity is treated as a problem, families carry the heavy burden of judgment. Our role is to shift the perspective from judgment to support, and from structure to action".

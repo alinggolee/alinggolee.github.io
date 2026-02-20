@@ -5,6 +5,7 @@
       "id": "W1",
       "title": "Gender Education Introduction",
       "cover": "data/W1/W 01 01.jpg",
+      "objectiveImage": "data/W1/W 01 02.jpg",
       "sections": [
         "content",
         "esp"
@@ -23,6 +24,7 @@
       "id": "W3",
       "title": "Gender expression",
       "cover": "data/W3/w 03 01 g expression.jpg",
+      "objectiveImage": "data/W3/w 03 02.jpg",
       "sections": [
         "content",
         "esp"
@@ -32,6 +34,7 @@
       "id": "W4",
       "title": "Media, gender and critical thinking",
       "cover": "data/W4/w 04-01.jpg",
+      "objectiveImage": "data/W4/w 04 02.jpg",
       "sections": [
         "content",
         "esp"
@@ -41,6 +44,7 @@
       "id": "W5",
       "title": "Sexual Orientation",
       "cover": "data/W5/w 05-01.jpg",
+      "objectiveImage": "data/W5/w 05-01love.jpg",
       "sections": [
         "content",
         "esp"
@@ -68,6 +72,7 @@
       "id": "W8",
       "title": "Diversity and Structural Inequality(Taruku)",
       "cover": "data/W8/w 08-01.jpg",
+      "objectiveImage": "data/W8/w 08.jpg",
       "sections": [
         "content",
         "esp"
@@ -77,6 +82,7 @@
       "id": "W9",
       "title": "Tradition, Change, and Gendered Identity",
       "cover": "data/W9/w 09-01.jpg",
+      "objectiveImage": "data/W9/w 09-3.jpg",
       "sections": [
         "content",
         "esp"
@@ -86,6 +92,7 @@
       "id": "W10",
       "title": "Sexual harassment",
       "cover": "data/W10/w 10 01反性騷.jpg",
+      "objectiveImage": "data/W10/w10-3.jpg",
       "sections": [
         "content",
         "esp"
@@ -95,6 +102,7 @@
       "id": "W11",
       "title": "Body & Beauty Standards",
       "cover": "data/W11/w 11-01.jpg",
+      "objectiveImage": "data/W11/w11-4.jpg",
       "sections": [
         "content",
         "esp"
@@ -104,6 +112,7 @@
       "id": "W12",
       "title": "Understanding Digital Gender-Based Violence",
       "cover": "data/W12/w 12-14.jpg",
+      "objectiveImage": "data/W12/w12-14-3.jpg",
       "sections": [
         "content",
         "esp"
@@ -113,6 +122,7 @@
       "id": "W13",
       "title": "Digital Gender-Based Violence: Critical Reflection",
       "cover": "data/W13/w13-01 05.jpg",
+      "objectiveImage": "data/W13/w13-15 01.jpg",
       "sections": [
         "content",
         "esp"
@@ -131,6 +141,7 @@
       "id": "W15",
       "title": "Final Structural Integration",
       "cover": "data/W15/w 15-01.jpg",
+      "objectiveImage": "data/W15/Ｗ15.jpg",
       "sections": [
         "content",
         "esp"

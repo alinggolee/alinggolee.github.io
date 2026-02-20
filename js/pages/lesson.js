@@ -66,12 +66,15 @@ export async function renderLesson(container, lesson) {
 
   wrapper.innerHTML = `
     <div class="lesson-sections">
-      <div class="section-block" data-section="objective">
-        <div class="section-block-header">
-          <span class="section-block-title is-main">${lesson.id} — ${lesson.title}</span>
-        </div>
-        <div class="section-block-body" id="summary-objective">
-          <div class="loading"></div>
+      <div class="section-block objective-block" data-section="objective">
+        ${(lesson.objectiveImage || lesson.cover) ? `<img src="${lesson.objectiveImage || lesson.cover}" class="objective-bg-img" alt="">` : ''}
+        <div class="objective-content-wrapper">
+          <div class="section-block-header">
+            <span class="section-block-title is-main">${lesson.id} — ${lesson.title}</span>
+          </div>
+          <div class="section-block-body" id="summary-objective">
+            <div class="loading"></div>
+          </div>
         </div>
       </div>
       <div class="lesson-bottom-row">

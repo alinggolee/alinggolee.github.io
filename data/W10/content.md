@@ -14,7 +14,8 @@
 利用經典影片《Tea Consent》來探討「積極同意」的內涵。
 
   - 人性化提問： 想像一下，如果有人強迫你喝下你不想喝的茶，你會覺得很不舒服。但在現實生活中，當你的身體感到「冷顫」或「不對勁」時，你是否曾試著說服自己「這只是我想太多」？我們要如何找回信任自己內心聲音的勇氣？
-  - 影片連結： Tea Consent (Blue Seat Studios) https://www.youtube.com/watch?v=oQbei5JGiT8
+  - 影片連結： Tea Consent (Blue Seat Studios)
+::video[https://www.youtube.com/embed/oQbei5JGiT8]
 
 ### 從自責走向結構識讀 (From Self-Blame to Structural Literacy)：
 

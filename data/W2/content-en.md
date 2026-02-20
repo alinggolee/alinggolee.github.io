@@ -17,7 +17,8 @@ Names are not just sounds; they are part of gender politics.
 ### The Battle for Indigenous Identity: Indigenous names in Taiwan often reflect connection to land, ancestry, or social class rather than just biological traits . For example, Paiwan names honor family honor and land connection.
 
 
-  - Video Context: Have their names been stolen?｜Shichi 77. https://www.youtube.com/watch?v=vbBjDL5soaw
+  - Video Context: Have their names been stolen?｜Shichi 77.
+::video[https://www.youtube.com/embed/vbBjDL5soaw]
   - Humanized Question: When a culture's naming system is erased, do the "gender roles" within that culture change too? Is your name a "family resume" or a "personal introduction"?
 
 ## Closing Synthesis
