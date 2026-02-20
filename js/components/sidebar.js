@@ -5,9 +5,8 @@
 import { Router } from '../router.js';
 
 const sectionLabels = {
-  objective: '目標',
-  video: '影片',
-  activity: '活動',
+  content: 'Course Content',
+  esp: 'ESP',
   teami: 'TEAMI'
 };
 

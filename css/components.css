@@ -185,7 +185,7 @@
 .section-block-body {
     font-size: var(--font-size-sm);
     color: var(--color-text-secondary);
-    line-height: 1.75;
+    line-height: 1.6;
 }
 
 .section-block-body .md-content img {
@@ -314,7 +314,7 @@
 .md-content p {
     margin-bottom: var(--space-md);
     color: var(--color-text-secondary);
-    line-height: 1.8;
+    line-height: 1.6;
 }
 
 .md-content ul,
@@ -366,6 +366,60 @@
 .md-content strong {
     color: var(--color-text);
     font-weight: var(--font-weight-semibold);
+}
+
+/* ========================================
+   ESP DETAILS
+   ======================================== */
+.esp-details {
+    margin: 0 0 var(--space-md) var(--space-xl);
+    border-left: 2px solid var(--lesson-color);
+    background: var(--color-bg-secondary);
+    float: right;
+    width: 350px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    clear: right;
+}
+
+@media (max-width: 768px) {
+    .esp-details {
+        float: none;
+        width: 100%;
+        margin: var(--space-md) 0;
+    }
+}
+
+.esp-details>summary {
+    padding: var(--space-md);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-text);
+    cursor: pointer;
+    list-style: none;
+    /* Hide default arrow */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.esp-details>summary::-webkit-details-marker {
+    display: none;
+    /* Hide default arrow on webkit */
+}
+
+.esp-details>summary::after {
+    content: '↓';
+    font-weight: bold;
+    color: var(--lesson-color);
+}
+
+.esp-details[open]>summary::after {
+    content: '↑';
+}
+
+.esp-content {
+    padding: 0 var(--space-md) var(--space-md) var(--space-md);
+    color: var(--color-text-secondary);
+    font-size: var(--font-size-sm);
 }
 
 /* ========================================

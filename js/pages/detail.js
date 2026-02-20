@@ -3,11 +3,11 @@
  */
 
 import { parseMarkdown } from '../markdown.js';
+import { getLang } from '../lang.js';
 
 const sectionNames = {
-  objective: '目標',
-  video: '影片',
-  activity: '活動'
+  content: 'Course Content',
+  esp: 'ESP'
 };
 
 /**
@@ -21,16 +21,21 @@ export async function renderDetail(container, lesson, section) {
 
   container.innerHTML = `
     <div class="detail-content">
-    <div class="detail-content">
       <div class="md-content loading"></div>
-    </div>
     </div>
   `;
 
   const mdContainer = container.querySelector('.md-content');
 
   try {
-    const res = await fetch(`data/${lesson.id}/${section}.md`);
+    const suffix = getLang() === 'en' ? '-en' : '';
+    let res = await fetch(`data/${lesson.id}/${section}${suffix}.md`);
+
+    // Fallback to default if -en file doesn't exist
+    if (!res.ok && suffix !== '') {
+      res = await fetch(`data/${lesson.id}/${section}.md`);
+    }
+
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const mdText = await res.text();
 

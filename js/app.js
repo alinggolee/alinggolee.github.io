@@ -69,7 +69,7 @@ async function init() {
         document.body.classList.remove('is-directory');
         const lesson = getLesson(id);
         if (!lesson) return Router.navigate('#/');
-        const validSections = ['objective', 'video', 'activity'];
+        const validSections = ['content', 'esp'];
         if (!validSections.includes(section)) return Router.navigate(`#/lesson/${id}`);
         applyLessonColor(id);
         renderSidebar(config.lessons, id);

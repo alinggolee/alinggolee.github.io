@@ -4,12 +4,12 @@
 
 import { Router } from '../router.js';
 import { toggleTheme, isDarkTheme } from '../theme.js';
+import { getLang, toggleLang } from '../lang.js';
 
 const sections = [
-    { key: 'lesson', label: '課程頁面', icon: '📋' },
-    { key: 'objective', label: '目標', icon: '🎯' },
-    { key: 'video', label: '影片', icon: '🎬' },
-    { key: 'activity', label: '活動', icon: '🏃' },
+    { key: 'lesson', label: 'Course Page', icon: '📋' },
+    { key: 'content', label: 'Course Content', icon: '📖' },
+    { key: 'esp', label: 'ESP', icon: '💡' },
     { key: 'teemi', label: 'TEEMI', icon: '👥', external: true, url: 'https://teemi.tw/' }
 ];
 
@@ -27,6 +27,7 @@ export function renderNavbar(lessonId, activeSection, lessonData = null) {
     // But since renderNavbar is called, we ensure it's there.
     const globalHeader = document.getElementById('global-header');
     if (globalHeader && !globalHeader.querySelector('#nav-theme-toggle')) {
+        // Theme Toggle
         const themeIcon = isDarkTheme() ? '☀️' : '🌙';
         const modalBtn = document.createElement('button');
         modalBtn.id = 'nav-theme-toggle';
@@ -35,13 +36,27 @@ export function renderNavbar(lessonId, activeSection, lessonData = null) {
         modalBtn.innerHTML = themeIcon;
         modalBtn.style.marginLeft = 'auto'; // Right align
 
-        // Append to global header
         globalHeader.appendChild(modalBtn);
 
-        // Add event listener directly
         modalBtn.addEventListener('click', () => {
             const isDark = toggleTheme();
             modalBtn.textContent = isDark ? '☀️' : '🌙';
+        });
+
+        // Language Toggle
+        const langBtn = document.createElement('button');
+        langBtn.id = 'nav-lang-toggle';
+        langBtn.className = 'nav-btn lang-toggle-btn';
+        langBtn.setAttribute('aria-label', 'Toggle language');
+        langBtn.textContent = getLang() === 'en' ? 'EN' : '中/英';
+        langBtn.style.marginLeft = '8px';
+
+        globalHeader.appendChild(langBtn);
+
+        langBtn.addEventListener('click', () => {
+            const next = toggleLang();
+            langBtn.textContent = next === 'en' ? 'EN' : '中/英';
+            location.reload(); // Reload page to apply language
         });
     }
 

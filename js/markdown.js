@@ -12,12 +12,19 @@ export function parseMarkdown(md) {
     let inList = false;
     let listType = '';
     let inBlockquote = false;
+    let inDetails = false;
+    let inParagraph = false;
+
+    const closeParagraph = () => {
+        if (inParagraph) { html += '</p>'; inParagraph = false; }
+    };
 
     for (let i = 0; i < lines.length; i++) {
         let line = lines[i];
 
         // Blank line — close open blocks
         if (line.trim() === '') {
+            closeParagraph();
             if (inList) {
                 html += listType === 'ul' ? '</ul>' : '</ol>';
                 inList = false;
@@ -32,13 +39,37 @@ export function parseMarkdown(md) {
         // Video embed: ::video[URL]
         const videoMatch = line.trim().match(/^::video\[(.+)\]$/);
         if (videoMatch) {
+            closeParagraph();
             html += `<div class="video-embed"><iframe src="${escapeHtml(videoMatch[1])}" allowfullscreen loading="lazy"></iframe></div>`;
+            continue;
+        }
+
+        // ESP Details block start: :::esp[Summary]
+        const espMatch = line.trim().match(/^:::esp\[(.+)\]$/);
+        if (espMatch) {
+            closeParagraph();
+            if (inList) { html += listType === 'ul' ? '</ul>' : '</ol>'; inList = false; }
+            if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
+
+            html += `<details class="esp-details"><summary>${inline(espMatch[1])}</summary><div class="esp-content">`;
+            inDetails = true;
+            continue;
+        }
+
+        // ESP Details block end: :::
+        if (inDetails && line.trim() === ':::') {
+            closeParagraph();
+            if (inList) { html += listType === 'ul' ? '</ul>' : '</ol>'; inList = false; }
+            if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
+            html += `</div></details>`;
+            inDetails = false;
             continue;
         }
 
         // Headings
         const headingMatch = line.trim().match(/^(#{1,3})\s+(.+)$/);
         if (headingMatch) {
+            closeParagraph();
             const level = headingMatch[1].length;
             html += `<h${level}>${inline(headingMatch[2])}</h${level}>`;
             continue;
@@ -46,6 +77,7 @@ export function parseMarkdown(md) {
 
         // Blockquote
         if (line.startsWith('> ')) {
+            closeParagraph();
             if (!inBlockquote) {
                 html += '<blockquote>';
                 inBlockquote = true;
@@ -60,6 +92,7 @@ export function parseMarkdown(md) {
         // Unordered list
         const ulMatch = line.match(/^[-*]\s+(.+)$/);
         if (ulMatch) {
+            closeParagraph();
             if (!inList || listType !== 'ul') {
                 if (inList) html += listType === 'ul' ? '</ul>' : '</ol>';
                 html += '<ul>';
@@ -73,6 +106,7 @@ export function parseMarkdown(md) {
         // Ordered list
         const olMatch = line.match(/^\d+\.\s+(.+)$/);
         if (olMatch) {
+            closeParagraph();
             if (!inList || listType !== 'ol') {
                 if (inList) html += listType === 'ul' ? '</ul>' : '</ol>';
                 html += '<ol>';
@@ -90,12 +124,20 @@ export function parseMarkdown(md) {
         }
 
         // Paragraph
-        html += `<p>${inline(line)}</p>`;
+        if (!inParagraph) {
+            html += `<p>${inline(line)}`;
+            inParagraph = true;
+        } else {
+            // Continuation of paragraph (with a br tag)
+            html += `<br>${inline(line)}`;
+        }
     }
 
     // Close trailing blocks
+    closeParagraph();
     if (inList) html += listType === 'ul' ? '</ul>' : '</ol>';
     if (inBlockquote) html += '</blockquote>';
+    if (inDetails) html += '</div></details>';
 
     return html;
 }
