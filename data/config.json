@@ -1,0 +1,155 @@
+{
+  "siteTitle": "Alinggo — 課程資料",
+  "lessons": [
+    {
+      "id": "W1",
+      "title": "課程介紹",
+      "cover": "data/W1/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W2",
+      "title": "基礎概念",
+      "cover": "data/W2/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W3",
+      "title": "核心技巧 I",
+      "cover": "data/W3/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W4",
+      "title": "核心技巧 II",
+      "cover": "data/W4/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W5",
+      "title": "實務應用 I",
+      "cover": "data/W5/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W6",
+      "title": "實務應用 II",
+      "cover": "data/W6/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W7",
+      "title": "期中複習",
+      "cover": "data/W7/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W8",
+      "title": "進階主題 I",
+      "cover": "data/W8/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W9",
+      "title": "進階主題 II",
+      "cover": "data/W9/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W10",
+      "title": "專題研討 I",
+      "cover": "data/W10/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W11",
+      "title": "專題研討 II",
+      "cover": "data/W11/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W12",
+      "title": "團隊合作",
+      "cover": "data/W12/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W13",
+      "title": "成果展示",
+      "cover": "data/W13/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W14",
+      "title": "期末複習",
+      "cover": "data/W14/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    },
+    {
+      "id": "W15",
+      "title": "總結與展望",
+      "cover": "data/W15/cover.svg",
+      "sections": [
+        "objective",
+        "video",
+        "activity"
+      ]
+    }
+  ]
+}
