@@ -1,4 +1,4 @@
-# From Aesthetic Pressure to Internalized Discipline
+# Week 11｜Body & Beauty Standards
 
 ## Theoretical Core: The Shift from Regulation to Discipline
 

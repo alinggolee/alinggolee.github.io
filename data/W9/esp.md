@@ -1,6 +1,6 @@
-# 主題：描述變遷與主體性的語言 (The Language of Change and Agency)
+# Week 9 ｜傳統、變遷與性別認同
 
-## 🎯 ESP 學習目標 (ESP ILOs)
+## ESP 學習目標 (ESP ILOs)
 
 學生將能夠：
 
@@ -8,7 +8,7 @@
 - 描述 一條性別規則如何被保留、改變或抵抗。
 - 運用 學術句型發表關於文化認同的海報演說。
 - 撰寫 家庭性別規範的實例反思報告。
-## 📚 關鍵字與變遷範例 (Vocabulary & Usage)
+## 關鍵字與變遷範例 (Vocabulary & Usage)
 
 關鍵字 (Key Vocabulary)	專業反思範例 (Example)
 
@@ -18,7 +18,7 @@ Reinterpret (重新詮釋)	「當代女性正在重新詮釋傳統角色，將�
 
 Group Consciousness (群體意識)	「太魯閣族的認同從家族發展到了整體的群體意識。」
 
-## 🗣️ TEEMI 口說練習準備 (Final TEEMI Prep)
+## TEEMI 口說練習準備 (Final TEEMI Prep)
 
 這週的主題非常適合與 TEEMI 聊天！請練習使用以下句型來反思你的文化經驗：
 

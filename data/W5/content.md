@@ -1,4 +1,4 @@
-# 超越標籤——理解慾望與權力的交織 (Beyond Labels: Understanding the Intersection of Desire and Power)
+# Week 5 ｜性傾向
 
 ## 理論核心：吸引力並非單一維度 (The Multi-dimensional Nature of Attraction)
 

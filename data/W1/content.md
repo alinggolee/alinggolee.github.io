@@ -1,6 +1,6 @@
-# 課程內容
+# Week 1 ｜性別教育概論
 
-從故事到結構——性別社會化的起點 (From Stories to Structure: The Beginning of Gender Socialization)
+性別教育概論 (Gender Education Introduction)
 
 ## 理論核心：SOGIESC 導航 (Theoretical Core: Navigating SOGIESC)
 

@@ -1,4 +1,4 @@
-# Final Structural Integration: Reflection and Responsibility
+# Week 15 ｜Final Structural Integration
 
 ## Theoretical Core: The Cycle of Liberation
 

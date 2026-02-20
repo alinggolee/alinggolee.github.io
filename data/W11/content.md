@@ -1,4 +1,4 @@
-# 從審美壓力到內化的紀律（From Aesthetic Pressure to Internalized Discipline）
+# Week 11｜身體與審美標準
 
 ## Theoretical Core: The Shift from Regulation to Discipline（理論核心：從管控到規訓）
 

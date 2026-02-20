@@ -1,13 +1,13 @@
-# 主題：分析權力與預防的語言 (The Language of Power and Prevention)
+# Week 13｜數位性別暴力：批判性反思
 
-## 🎯 ESP 學習目標 (ESP ILOs)
+## ESP 學習目標 (ESP ILOs)
 
 - 掌握 描述數位暴力與權力動力的專業詞彙（如 Coercion, Accountability） 。
 +1
 
 - 建構 關於因果分析的學術語句 。
 - 批判性評估 預防架構並提出改進建議 。
-## 📚 關鍵字與反思範例 (Vocabulary & Reflection Examples)
+## 關鍵字與反思範例 (Vocabulary & Reflection Examples)
 
 關鍵字 (Target Vocabulary)	反思範例 (Reflective Example)
 
@@ -21,7 +21,7 @@ Bystander (旁觀者)	數位空間中的旁觀者若保持沉默，可能會延�
 
 +1
 
-## 🗣️ TEEMI 口說練習準備 (TEEMI Oral Prep)
+## TEEMI 口說練習準備 (TEEMI Oral Prep)
 
 為了幫助你準備 TEEMI 的口說聊天，請練習使用以下 B2 程度句型來總結今日所學 ：
 

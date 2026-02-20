@@ -1,4 +1,4 @@
-# Genderbread Person, Trans Experience & Structural Privilege
+# Week 7 ｜GBP, Trans Experience and Privilege
 
 ## Theoretical Core: Mapping Power and Identity
 

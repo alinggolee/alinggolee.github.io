@@ -1,4 +1,4 @@
-# 從網路反應到結構覺察——媒體裡的性別權力 (From Social Reaction to Structural Awareness)
+# Week 4 ｜媒體、性別與批判性思考
 
 ## 理論核心：性別是如何被「執行」的？ (The Enforcement of Gender)
 

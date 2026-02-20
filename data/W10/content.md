@@ -1,4 +1,4 @@
-# 主題：權力不對等、同意與機構責任 (Power Imbalance, Consent, and Institutional Responsibility)
+# Week 10｜性騷擾
 
 ## 理論核心：拆解騷擾的結構 (The Anatomy of Harassment)
 

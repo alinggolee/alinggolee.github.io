@@ -1,11 +1,11 @@
-# 主題：命名傳統的語言分析 (The Language of Naming Traditions)
+# Week 2 ｜性別概念與命名
 
-## 🎯 ESP 學習目標 (ESP ILOs)
+## ESP 學習目標 (ESP ILOs)
 
 - 使用 英語理解不同文化中的命名傳統 。
 - 應用 關鍵詞與句型來描述並比較命名習慣 。
 - 解釋 這些傳統與性別角色及平權的關係 。
-## 📚 關鍵字與跨文化範例 (Vocabulary & Cultural Examples)
+## 關鍵字與跨文化範例 (Vocabulary & Cultural Examples)
 
 關鍵字 (Target Vocabulary)	跨文化範例 (Cultural Examples)
 
@@ -19,7 +19,7 @@ Inheritance (繼承)	英國歷史上常見「父系繼承」(Patrilineal inherit
 
 Unisex (中性/男女通用)	現代父母常選用 Jordan 或 Taylor 等中性名字，以減少性別標籤 。
 
-## 🗣️ TEEMI 口說練習準備 (TEEMI Prep Mission)
+## TEEMI 口說練習準備 (TEEMI Prep Mission)
 
 為了幫助你準備本週的 TEEMI 口說練習，請試著練習這組「比較句型」，這能幫你更有邏輯地描述觀察 ：
 

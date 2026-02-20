@@ -1,12 +1,12 @@
-# 主題：展現你的影響力——公開發表與專業對話 (Presenting Your Impact)
+# Week 15 ｜最終結構整合
 
-## 🎯 ESP 學習目標 (ESP ILOs)
+## ESP 學習目標 (ESP ILOs)
 
 - 統整 並使用學術英語發表你的倡議專案。
 - 解釋 專案中的結構性與倫理考量。
 - 練習 以專業方式進行 Q&A 問答。
 - 撰寫 具備結構性的學期總結反思報告。
-## 📚 關鍵字與反思範例 (Vocabulary & Review)
+## 關鍵字與反思範例 (Vocabulary & Review)
 
 關鍵字 (Key Vocabulary)	專業反思範例 (Professional Reflection)
 
@@ -16,7 +16,7 @@ Structural Literacy (結構識讀)	「這門課提升了我的結構識讀力，
 
 Accountability (問責制)	「有效的倡議需要以同理心與問責制為核心」。
 
-## 🗣️ TEEMI 口說練習：學期終章 (The Grand Finale)
+## TEEMI 口說練習：學期終章 (The Grand Finale)
 
 為了準備最後一次與 TEEMI 的對話，請嘗試統整這 15 週的成長：
 

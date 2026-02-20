@@ -1,4 +1,4 @@
-# Gender Concepts & Naming — From Personal Identity to Social Expectation
+# Week 2 ｜Gender Concepts & Naming
 
 ## Theoretical Core: Naming as Gendered Politics
 

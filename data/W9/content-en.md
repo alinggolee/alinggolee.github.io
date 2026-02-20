@@ -1,4 +1,4 @@
-# Tradition, Change, and Gendered Identity (B1-B2 Level)
+# Week 9 ｜Tradition, Change, and Gendered Identity
 
 ## Theoretical Core: The Dynamic Balance of Agency
 

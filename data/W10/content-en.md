@@ -1,4 +1,4 @@
-# Sexual Harassment: Power, Consent, and Structure (B1-B2 Level)
+# Week 10｜Sexual harassment
 
 ## Theoretical Core: Deconstructing the System of Harm
 

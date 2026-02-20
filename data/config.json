@@ -1,9 +1,9 @@
 {
-  "siteTitle": "Alinggo — 課程資料",
+  "siteTitle": "性別教育",
   "lessons": [
     {
       "id": "W1",
-      "title": "Introduction to Gender & Socialization",
+      "title": "Gender Education Introduction",
       "cover": "data/W1/W 01 01.jpg",
       "sections": [
         "content",
@@ -12,7 +12,7 @@
     },
     {
       "id": "W2",
-      "title": "Gender Concepts & Naming — From Personal Identity to Social Expectation",
+      "title": "Gender Concepts & Naming",
       "cover": "data/W2/w 02 01naming2.jpg",
       "sections": [
         "content",
@@ -21,7 +21,7 @@
     },
     {
       "id": "W3",
-      "title": "Gender Expression — Masculine, Feminine, and Androgynous",
+      "title": "Gender expression",
       "cover": "data/W3/w 03 01 g expression.jpg",
       "sections": [
         "content",
@@ -30,7 +30,7 @@
     },
     {
       "id": "W4",
-      "title": "Media Literacy, Gender, and Critical Thinking",
+      "title": "Media, gender and critical thinking",
       "cover": "data/W4/w 04-01.jpg",
       "sections": [
         "content",
@@ -39,7 +39,7 @@
     },
     {
       "id": "W5",
-      "title": "Sexual Orientation, Attraction, and Structural Understanding",
+      "title": "Sexual Orientation",
       "cover": "data/W5/w 05-01.jpg",
       "sections": [
         "content",
@@ -48,7 +48,7 @@
     },
     {
       "id": "W6",
-      "title": "From Parenting to Social Structure — Deconstructing the \"Default Family\" Script",
+      "title": "Diversity, Gender, and Parenting",
       "cover": "data/W6/w 06-01.jpg",
       "sections": [
         "content",
@@ -57,7 +57,7 @@
     },
     {
       "id": "W7",
-      "title": "Genderbread Person, Trans Experience & Structural Privilege",
+      "title": "GBP, Trans Experience and Privilege",
       "cover": "data/W7/w 07.jpg",
       "sections": [
         "content",
@@ -66,7 +66,7 @@
     },
     {
       "id": "W8",
-      "title": "Diversity and Structural Inequality — From Cultural Code to Structural Legitimacy",
+      "title": "Diversity and Structural Inequality(Taruku)",
       "cover": "data/W8/w 08-01.jpg",
       "sections": [
         "content",
@@ -75,7 +75,7 @@
     },
     {
       "id": "W9",
-      "title": "Tradition, Change, and Gendered Identity (B1-B2 Level)",
+      "title": "Tradition, Change, and Gendered Identity",
       "cover": "data/W9/w 09-01.jpg",
       "sections": [
         "content",
@@ -84,7 +84,7 @@
     },
     {
       "id": "W10",
-      "title": "Sexual Harassment: Power, Consent, and Structure (B1-B2 Level)",
+      "title": "Sexual harassment",
       "cover": "data/W10/w 10 01反性騷.jpg",
       "sections": [
         "content",
@@ -93,7 +93,7 @@
     },
     {
       "id": "W11",
-      "title": "From Aesthetic Pressure to Internalized Discipline",
+      "title": "Body & Beauty Standards",
       "cover": "data/W11/w 11-01.jpg",
       "sections": [
         "content",
@@ -102,7 +102,7 @@
     },
     {
       "id": "W12",
-      "title": "Understanding Digital Gender-Based Violence (B1-B2 Level)",
+      "title": "Understanding Digital Gender-Based Violence",
       "cover": "data/W12/w 12-14.jpg",
       "sections": [
         "content",
@@ -111,7 +111,7 @@
     },
     {
       "id": "W13",
-      "title": "Digital Violence: Reflecting on Stories and Limits",
+      "title": "Digital Gender-Based Violence: Critical Reflection",
       "cover": "data/W13/w13-01 05.jpg",
       "sections": [
         "content",
@@ -120,7 +120,7 @@
     },
     {
       "id": "W14",
-      "title": "Advocacy & Educational Design: Facilitating \"Ready for an Adventure!\"",
+      "title": "Advocacy & Educational Design: Ready for an Adventure(Community Outreach Version)",
       "cover": "data/W14/w14.JPG",
       "sections": [
         "content",
@@ -129,7 +129,7 @@
     },
     {
       "id": "W15",
-      "title": "Final Structural Integration: Reflection and Responsibility",
+      "title": "Final Structural Integration",
       "cover": "data/W15/w 15-01.jpg",
       "sections": [
         "content",

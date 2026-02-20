@@ -1,14 +1,14 @@
-# ESP
+# Week 1 ｜性別教育概論
 
-主題：性別與社會化的語言 (The Language of Gender and Socialization)
+性別教育概論 (Gender Education Introduction)
 
-## 🎯 ESP 學習目標 (ESP ILOs)
+## ESP 學習目標 (ESP ILOs)
 
 - **辨識並描述** 童書故事與姓名中的性別訊息。
 - **使用** 簡單英語分析性別呈現 (Gender Representation)。
 - **練習** 針對童書中的重複模式進行口頭反思。
 
-## 📚 關鍵字與生活範例 (Thematic Examples)
+## 關鍵字與生活範例 (Thematic Examples)
 
 ### 關鍵字 (Key Vocabulary)
 
@@ -16,7 +16,7 @@
 - **Socialization (社會化):** 父母教導孩子如何根據性別「表現」，這就是社會化的過程。
 - **Expectation (期待):** 名字裡的「強」字往往代表了父母對男孩子的性別期待。
 
-## 🗣️ TEEMI 口說練習準備 (TEEMI Prep Mission)
+## TEEMI 口說練習準備 (TEEMI Prep Mission)
 
 為了準備本週的 TEEMI 口說挑戰，請試著練習這組「分析句型」，幫助你專業地表達觀察：
 

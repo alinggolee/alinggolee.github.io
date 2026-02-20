@@ -1,4 +1,4 @@
-# Sexual Orientation, Attraction, and Structural Understanding
+# Week 5 ｜Sexual Orientation
 
 ## Theoretical Core: Beyond Identity Labels
 

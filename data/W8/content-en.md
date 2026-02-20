@@ -1,4 +1,4 @@
-# Diversity and Structural Inequality — From Cultural Code to Structural Legitimacy
+# Week 8 ｜Diversity and Structural Inequality(Taruku)
 
 ## Theoretical Core: Gaya as a Regulatory Framework
 

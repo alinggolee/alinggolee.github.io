@@ -1,4 +1,4 @@
-# 性別表現——這是一場自我的「表現冒險」 (Gender Expression: Your Self-Presentation Adventure)
+# Week 3 ｜性別特質與表現
 
 ## 理論核心：什麼是性別表現？ (The Essence of Gender Expression)
 

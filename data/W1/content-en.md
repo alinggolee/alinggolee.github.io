@@ -1,6 +1,6 @@
-# Course Content
+# Week 1 ｜Gender Education Introduction
 
-Introduction to Gender & Socialization — From Stories to Structure
+Gender Education Introduction
 
 ## Theoretical Core: The SOGIESC Map
 

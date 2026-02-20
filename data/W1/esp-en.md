@@ -1,14 +1,14 @@
-# ESP
+# Week 1 ｜Gender Education Introduction
 
-Theme: The Language of Socialization and Representation
+Gender Education Introduction
 
-## 🎯 ESP Intended Learning Outcomes (ILOs)
+## ESP Intended Learning Outcomes (ILOs)
 
 - **Recognize and describe** gender messages in children’s stories and naming practices.
 - **Use** simple English to analyze gender representation.
 - **Construct** short oral reflections on gender patterns.
 
-## 📚 Key Vocabulary & Practical Usage
+## Key Vocabulary & Practical Usage
 
 - **Stereotype (n.):** A fixed idea that many people have about a group.
   > Ex: "The idea that 'boys are strong' is a common stereotype."
@@ -17,7 +17,7 @@ Theme: The Language of Socialization and Representation
 - **Representation (n.):** How something is shown or described.
   > Ex: "We are analyzing the representation of girls in digital picture books."
 
-## 🗣️ TEEMI Speaking Prep (Review & Practice)
+## TEEMI Speaking Prep (Review & Practice)
 
 Ready to talk to TEEMI? Use these B1-B2 level "Professional Frames" to organize your thoughts:
 

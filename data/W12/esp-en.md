@@ -1,11 +1,11 @@
-# Theme: Analyzing Digital Harm through Professional Language
+# Week 12｜Understanding Digital Gender-Based Violence
 
-## 🎯 ESP Intended Learning Outcomes (ILOs)
+## ESP Intended Learning Outcomes (ILOs)
 
 - Use academic terms about digital systems accurately (e.g., Algorithm, Amplification).
 - Explain the escalation of digital harm using clear causal language.
 - Construct a short group argument about platform responsibility.
-## 📚 Key Vocabulary & Practical Usage
+## Key Vocabulary & Practical Usage
 
 - Algorithm (n.): A set of rules a computer follows to decide what you see online.
   - Ex: "The algorithm prioritized content that gained more likes, even if it was harmful."
@@ -13,7 +13,7 @@
   - Ex: "We need more platform accountability to stop digital violence."
 - Engagement (n.): Interaction on social media (likes, shares, comments).
   - Ex: "Platforms care about engagement because it generates more data and profit."
-## 🗣️ TEEMI Speaking Prep (Review & Practice)
+## TEEMI Speaking Prep (Review & Practice)
 
 Ready to talk to TEEMI? Use these B1-B2 level "Professional Frames" to organize your thoughts:
 

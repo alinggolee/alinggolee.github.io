@@ -1,4 +1,4 @@
-# 從知識到責任——學期終章 (From Knowledge to Responsibility: The Final Chapter)
+# Week 15 ｜最終結構整合
 
 ## 理論核心：解放的週期 (The Cycle of Liberation)
 

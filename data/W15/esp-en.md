@@ -1,6 +1,6 @@
-# Theme: Synthesizing Impact through Professional Voice
+# Week 15 ｜Final Structural Integration
 
-## 🎯 ESP Intended Learning Outcomes (ILOs)
+## ESP Intended Learning Outcomes (ILOs)
 
 Students will be able to:
 
@@ -8,7 +8,7 @@ Students will be able to:
 - Explain structural and ethical considerations clearly.
 - Engage in professional Q&A sessions using respectful academic discourse.
 - Produce a high-quality, structured reflective report on their semester journey.
-## 📚 Key Vocabulary & Professional Usage
+## Key Vocabulary & Professional Usage
 
 - Synthesize (v.): To combine various concepts into a unified whole.
   - Ex: "We synthesized theory and practice in our board game design."
@@ -16,7 +16,7 @@ Students will be able to:
   - Ex: "This course has significantly improved my structural literacy."
 - Advocacy (n.): Public support for a specific cause or structural change.
   - Ex: "Effective advocacy requires a balance of empathy and accountability."
-## 🗣️ TEEMI Speaking Prep (Review & Practice)
+## TEEMI Speaking Prep (Review & Practice)
 
 Ready to speak with TEEMI? Use these B1-B2 level "Synthesis Frames" to review your 15-week transformation:
 

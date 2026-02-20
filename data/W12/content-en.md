@@ -1,4 +1,4 @@
-# Understanding Digital Gender-Based Violence (B1-B2 Level)
+# Week 12｜Understanding Digital Gender-Based Violence
 
 ## Theoretical Core: How Systems Shape Harm
 

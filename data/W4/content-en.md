@@ -1,4 +1,4 @@
-# Media Literacy, Gender, and Critical Thinking
+# Week 4 ｜Media, gender and critical thinking
 
 ## Theoretical Core: How Norms are Maintained
 

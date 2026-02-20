@@ -1,4 +1,4 @@
-# From Parenting to Social Structure — Deconstructing the "Default Family" Script
+# Week 6 ｜Diversity, Gender, and Parenting
 
 ## heoretical Core: Parenting as Social Regulation
 

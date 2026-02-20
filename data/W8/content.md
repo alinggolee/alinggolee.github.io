@@ -1,4 +1,4 @@
-# 從文化規範到結構正當性——看見無所不在的 Gaya (From Cultural Code to Structural Legitimacy)
+# Week 8 ｜多樣性與結構不平等（太魯閣族）
 
 ## 理論核心：Gaya 作為一種規制系統 (Gaya as a Regulatory System)
 

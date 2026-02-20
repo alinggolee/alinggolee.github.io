@@ -1,4 +1,4 @@
-# 從覺察到行動——數位暴力案例反思 (From Awareness to Action: Reflecting on Digital Violence)
+# Week 13｜數位性別暴力：批判性反思
 
 ## 理論核心：權力三角形 (Theoretical Core: The Power Triangle)
 

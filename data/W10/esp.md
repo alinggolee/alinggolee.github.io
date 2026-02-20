@@ -1,13 +1,13 @@
-# 主題：分析安全與責任的語言 (The Language of Safety and Accountability)
+# Week 10｜性騷擾
 
-## 🎯 ESP 學習目標 (ESP ILOs)
+## ESP 學習目標 (ESP ILOs)
 
 學生將能夠：
 
 - 正確使用 同意 (Consent)、邊界 (Boundary)、權力不對等 (Power Imbalance) 等關鍵詞。
 - 描述 一個事件，並涵蓋身體、情緒與權力的三部分架構。
 - 解釋 基本的機構回應方式（通報、支持、調查與保護）。
-## 📚 關鍵字與反思範例 (Vocabulary & Usage)
+## 關鍵字與反思範例 (Vocabulary & Usage)
 
 關鍵字 (Key Vocabulary)	專業反思範例 (Example)
 
@@ -17,7 +17,7 @@ Institutional Responsibility (機構責任)	「學校有機構責任來建立透
 
 Consent (同意)	「積極的同意必須是自願、清晰且隨時可以撤回的。」
 
-## 🗣️ TEEMI 口說練習準備 (Final TEEMI Prep)
+## TEEMI 口說練習準備 (Final TEEMI Prep)
 
 準備好與 TEEMI 聊聊安全議題了嗎？請練習使用以下句型來反思本週所學：
 

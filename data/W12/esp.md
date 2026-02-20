@@ -1,11 +1,11 @@
-# 主題：分析數位體系的專業語言 (The Language of Digital Systems)
+# Week 12｜理解數位性別暴力
 
-## 🎯 ESP 學習目標 (ESP ILOs)
+## ESP 學習目標 (ESP ILOs)
 
 - 掌握 描述數位系統的專業字彙（如 Algorithm, Amplification）。
 - 解釋 網路互動演變為傷害的「因果邏輯」。
 - 練習 以學術句型針對預防策略提出有力的觀點。
-## 📚 關鍵字與生活範例 (Thematic Examples)
+## 關鍵字與生活範例 (Thematic Examples)
 
 關鍵字 (Key Vocabulary)	易懂的範例 (Simple Example)
 
@@ -15,7 +15,7 @@ Accountability (問責制)	社交媒體平台應該為移除有害內容的速�
 
 Disproportionate (不成比例的)	研究顯示，女性在網路上遭受性騷擾的頻率遠高於男性。
 
-## 🗣️ TEEMI 口說練習準備 (TEEMI Prep Mission)
+## TEEMI 口說練習準備 (TEEMI Prep Mission)
 
 為了準備本週的 TEEMI 口說挑戰，請試著使用以下「結構化句型」來練習描述你的看法：
 

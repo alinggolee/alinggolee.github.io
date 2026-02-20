@@ -1,11 +1,11 @@
-# 主題：文化分析與社會控制的語言 (The Language of Cultural Analysis)
+# Week 8 ｜多樣性與結構不平等（太魯閣族）
 
-## 🎯 ESP 學習目標 (ESP ILOs)
+## ESP 學習目標 (ESP ILOs)
 
 - 正確使用 規範 (Norm)、規訓 (Regulation)、特權 (Privilege) 與不平等 (Inequality) 等關鍵詞。
 - 解釋 文化規則如何形塑性別角色。
 - 運用 結構化語言比較不同的性別規範。
-## 📚 關鍵字與分析階梯 (Vocabulary & The Concept Ladder)
+## 關鍵字與分析階梯 (Vocabulary & The Concept Ladder)
 
 為了幫助你理解本週內容，請掌握這條「權力演進鏈」：
 
@@ -17,7 +17,7 @@
 
 最終端	Structural Inequality (結構性不平等)	當規則長期利於特定群體，就形成了結構。
 
-## 🗣️ TEEMI 口說練習準備 (TEEMI Prep Mission)
+## TEEMI 口說練習準備 (TEEMI Prep Mission)
 
 為了準備本週的 TEEMI 口說練習，請練習這組「因果分析句型」，這能幫你更有深度地總結課堂觀察：
 

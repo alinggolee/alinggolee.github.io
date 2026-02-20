@@ -1,11 +1,11 @@
-# Theme: The Language of Social Regulation and Comparison
+# Week 8 ｜Diversity and Structural Inequality(Taruku)
 
-## 🎯 ESP Intended Learning Outcomes (ILOs)
+## ESP Intended Learning Outcomes (ILOs)
 
 - Utilize key academic terms such as norm, regulation, privilege, and inequality correctly.
 - Explain the process through which cultural rules shape fixed gender roles.
 - Construct comparative arguments about gender norms using structured academic English.
-## 📚 Key Vocabulary & Practical Frameworks
+## Key Vocabulary & Practical Frameworks
 
 To master this week's content, follow the Concept Ladder:
 
@@ -17,7 +17,7 @@ Level 2	Social Control	"Gaya acts as a form of social control through community 
 
 Level 3	Authority	"Certain leaders have the authority to define what is legitimate behavior."
 
-## 🗣️ TEEMI Speaking Prep (Review & Practice)
+## TEEMI Speaking Prep (Review & Practice)
 
 Ready to talk to TEEMI? Use these B1-B2 level "Comparative Frames" to summarize your findings:
 

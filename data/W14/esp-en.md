@@ -1,6 +1,6 @@
-# Theme: The Language of Facilitation, Ethics, and Advocacy
+# Week 14｜Advocacy & Educational Design: Ready for an Adventure (Community Outreach Version)
 
-## 🎯 ESP Intended Learning Outcomes (ILOs)
+## ESP Intended Learning Outcomes (ILOs)
 
 Students will be able to:
 
@@ -8,7 +8,7 @@ Students will be able to:
 - Explain board game mechanics using clear academic and inclusive language.
 - Design reflective assessment tools using structured sentence frames.
 - Practice professional facilitation using non-blaming language.
-## 📚 Key Vocabulary & Professional Usage
+## Key Vocabulary & Professional Usage
 
 - Facilitation (n.): The act of guiding a group to a shared goal or reflection.
   - Ex: "Good facilitation centers student voices rather than the teacher's opinion."
@@ -16,7 +16,7 @@ Students will be able to:
   - Ex: "We must consider intersectionality when explaining why some victims face more bias."
 - Advocacy (n.): Public support for a cause or policy.
   - Ex: "Using this game in schools is a form of digital gender-justice advocacy."
-## 🗣️ TEEMI Speaking Prep (Review & Practice)
+## TEEMI Speaking Prep (Review & Practice)
 
 Ready to talk to TEEMI? Use these B1-B2 "Professional Frames" to summarize your teacher-training insights:
 

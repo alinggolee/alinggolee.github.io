@@ -1,4 +1,4 @@
-# 從網路互動到演算法放大 (From Online Interaction to Algorithmic Amplification)
+# Week 12｜理解數位性別暴力
 
 ## 理論核心：數位傷害是如何產生的？ (The Anatomy of Digital Harm)
 

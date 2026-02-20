@@ -1,10 +1,10 @@
-# Theme: The Language of Desire and Structural Power
+# Week 5 ｜Sexual Orientation
 
-## 🎯 ESP Intended Learning Outcomes (ILOs)
+## ESP Intended Learning Outcomes (ILOs)
 
 - Identify key concepts related to gender, attraction, and power in media texts.
 - Use academic vocabulary to describe and discuss gender and sexual orientation.
-## 📚 Key Vocabulary & Professional Usage
+## Key Vocabulary & Professional Usage
 
 - Heteronormativity (n.): The assumption that heterosexuality is the only normal mode of sexual orientation.
   - Ex: "The traditional wedding industry is often built on heteronormativity."
@@ -12,7 +12,7 @@
   - Ex: "The split attraction model provides a more accurate way to describe asexual experiences."
 - Marginalization (n.): The treatment of a person or group as insignificant or peripheral.
   - Ex: "Historical records often lead to the marginalization of LGBTQ+ stories."
-## 🗣️ TEEMI Speaking Prep (Review & Practice)
+## TEEMI Speaking Prep (Review & Practice)
 
 Ready to talk to TEEMI? Use these B1-B2 "Analysis Frames" to build your professional academic response:
 

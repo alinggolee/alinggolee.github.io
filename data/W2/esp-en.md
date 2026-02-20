@@ -1,11 +1,11 @@
-# Theme: Analyzing Cultural Symbols and Naming Traditions
+# Week 2 ｜Gender Concepts & Naming
 
-## 🎯 ESP Intended Learning Outcomes (ILOs)
+## ESP Intended Learning Outcomes (ILOs)
 
 - Recognize and describe naming traditions across different cultures using academic English.
 - Utilize target vocabulary to compare gender roles and naming habits.
 - Evaluate the connection between naming traditions and gender equality.
-## 📚 Key Vocabulary & Cross-Cultural Examples
+## Key Vocabulary & Cross-Cultural Examples
 
 Key Term	Practical Application	Why it Matters
 
@@ -21,7 +21,7 @@ Symbolism (n.)	Names carry cultural symbolism, such as "bravery" or "nature" .
 
 +2	It reveals social values.
 
-## 🗣️ TEEMI Speaking Prep (Review & Practice)
+## TEEMI Speaking Prep (Review & Practice)
 
 Get ready for your TEEMI oral task! Use these "Professional Frames" to organize your B1-B2 level analysis :
 

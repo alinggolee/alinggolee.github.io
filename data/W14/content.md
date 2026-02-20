@@ -1,4 +1,4 @@
-# 從玩家到引導者——《Ready for an Adventure?》的專業轉型 (From Player to Facilitator: Professional Transformation in "Ready for an Adventure!")
+# Week 14｜倡議與教育設計：Ready for an Adventure?（社區推廣版）
 
 ## 理論核心：數位性別倫理 (Theoretical Core: Digital Gender Ethics)
 

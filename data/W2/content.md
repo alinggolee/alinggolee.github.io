@@ -1,4 +1,4 @@
-# 從個人認同到社會期待——命名的性別政治 (From Personal Identity to Social Expectation)
+# Week 2 ｜性別概念與命名
 
 ## 理論核心：命名即權力 (Theoretical Core: Naming as Power)
 

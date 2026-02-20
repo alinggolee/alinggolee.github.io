@@ -1,4 +1,4 @@
-# 從認同到權力——解構結構性特權 (From Identity to Power: Deconstructing Structural Privilege)
+# Week 7 ｜性別薑餅人、跨性別經驗與特權
 
 ## 理論核心：性別的三個層次 (The Three-Level Model of Gender)
 

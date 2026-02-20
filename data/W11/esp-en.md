@@ -1,6 +1,6 @@
-# 主題：身體與審美標準的語言分析（The Language of Body and Beauty Standards）
+# Week 11｜Body & Beauty Standards
 
-## 🎯 ESP Intended Learning Outcomes (ILOs)
+## ESP Intended Learning Outcomes (ILOs)
 
 學生將能夠：
 
@@ -8,7 +8,7 @@
 - 分析媒體中關於外表的訊息 。
 - 解釋審美標準如何創造不平等 。
 - 在口說或寫作中提出多元的、抵制傳統標準的替代方案 。
-## 📚 Academic Vocabulary & Practice（學術字彙與實踐）
+## Academic Vocabulary & Practice（學術字彙與實踐）
 
 為了更精確地討論身體議題，我們需要掌握以下 B1-B2 程度的關鍵術語：
 
@@ -22,14 +22,14 @@ Commodification (n.)	商品化	「身體的商品化將自然特徵轉變為獲�
 
 Self-Regulation (n.)	自我規訓	「我們透過妝容與服裝進行自我規訓，以符合社會的性別規範。」
 
-🛠 Discourse Scaffolding: Analyzing Media Messages（語言鷹架：分析媒體訊息）
+Discourse Scaffolding: Analyzing Media Messages（語言鷹架：分析媒體訊息）
 
 學生可以使用以下句型來練習結構性批判 ：
 
 - "This phenomenon illustrates how beauty standards function as a form of gender regulation."
 - "From a structural perspective, this standard is socially constructed to benefit the industry."
 - "The media reinforces body surveillance by constantly focusing on perfection."
-🗣 Final Mission: Connect to TEEMI（口說任務：連結 TEEMI 練習）
+Final Mission: Connect to TEEMI（口說任務：連結 TEEMI 練習）
 
 為了準備課後的 TEEMI 口說練習，請嘗試回答以下主題，這將幫助你提升專業英語表達力：
 

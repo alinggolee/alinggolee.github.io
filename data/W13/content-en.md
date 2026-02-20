@@ -1,4 +1,4 @@
-# Digital Violence: Reflecting on Stories and Limits
+# Week 13｜Digital Gender-Based Violence: Critical Reflection
 
 ## Theoretical Core: The Body-Emotion-Power Triangle
 

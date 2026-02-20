@@ -1,4 +1,4 @@
-# Gender Expression — Masculine, Feminine, and Androgynous
+# Week 3 ｜Gender expression 
 
 ## Theoretical Core: Expression as Performance
 

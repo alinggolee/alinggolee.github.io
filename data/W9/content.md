@@ -1,4 +1,4 @@
-# 在傳統中尋找光——動態平衡與自我的誕生 (Finding the Light in Tradition: Dynamic Balance and the Birth of Self)
+# Week 9 ｜傳統、變遷與性別認同
 
 ## 理論核心：動態平衡 (Theoretical Core: Dynamic Balance)
 

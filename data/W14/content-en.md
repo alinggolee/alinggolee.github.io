@@ -1,4 +1,4 @@
-# Advocacy & Educational Design: Facilitating "Ready for an Adventure!"
+# Week 14｜Advocacy & Educational Design: Ready for an Adventure (Community Outreach Version)
 
 ## Theoretical Core: Ethical Facilitation and Structural Awareness
 
