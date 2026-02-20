@@ -10,7 +10,7 @@ By the end of this lesson, we will achieve the following:
 In this lesson, we will explore how gender is socially constructed. We'll learn the four dimensions of the SOGIESC framework, how to identify hidden gender stereotypes in daily life and children's books, and reflect on the gender expectations that might be tied to our names.
 
 - **🌟 Core Concepts:** Understanding gender socialization and the SOGIESC framework.
-- **💬 Focus Activities:** [Interactive Kids' Books Analysis](https://pudding.cool), The "Vibe" of Your Name.
+- **💬 Focus Activities:** [Interactive Kids' Books Analysis](https://pudding.cool/2025/07/kids-books/), The "Vibe" of Your Name.
 
 ## ESP
 
