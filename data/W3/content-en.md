@@ -14,6 +14,7 @@ Gender expression is the way we communicate our gender to the world through exte
 
 ::video[https://www.youtube.com/embed/V_M9ZId2QAY]
 
+::video[https://www.youtube.com/embed/DhR3gRxkVJY]
 
 ### From David Bowie’s glam rock style to Lin Yu-Ting’s powerful presence, how do these figures challenge the "standard script" of gender ?
 
