@@ -1,5 +1,4 @@
 # Week 9 ｜Tradition, Change, and Gendered Identity
-<img width="435" height="112" alt="image" src="https://github.com/user-attachments/assets/7b91db57-29e2-4c5b-bfa7-ce9ce17c3c43" />
 
 ## Weekly Learning Goals
 By the end of this lesson, students will be able to:
