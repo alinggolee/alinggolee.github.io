@@ -13,12 +13,10 @@ To discuss diversity clearly and respectfully, we adopt the SOGIESC framework:
 ## Discussion Questions
 
 ### Invisible Lessons in Stories
-Have you ever looked back at your favorite childhood book and realized it was trying to tell you who to be? If we always see boys as the heroes and girls as the ones needing rescue, how does that sneak into our minds as we grow up?
+Have you ever looked back at your favorite childhood book and realized it was trying to tell you who to be? If we always see boys as the heroes and girls as the ones needing rescue, how does that sneak into our minds as we grow up?### 姓名的重量
 
-- **Resource:** [Interactive Kids' Books Analysis (pudding.cool)](https://pudding.cool/2025/07/kids-books/)
+- [Interactive Kids' Books Analysis (pudding.cool)](https://pudding.cool/2025/07/kids-books/)
 
-### The "Vibe" of Your Name
-Does your name feel like a suit that fits you perfectly, or a label someone else chose? What kind of gendered expectations did your parents "tuck" into the syllables of your name?
 
 ## Closing Reflection
 
