@@ -12,7 +12,7 @@
 
 ::video[https://www.youtube.com/embed/mEyW-Isokdo]
 
-::video[https://www.youtube.com/embed/V_M9ZId2QAY&t=23s]
+::video[https://www.youtube.com/embed/V_M9ZId2QAY]
 
 ### 從 70 年代的 David Bowie 到奧運女拳國手林郁婷，這些公眾人物有挑戰社會對性別表現的「標準劇本」嗎？
 
