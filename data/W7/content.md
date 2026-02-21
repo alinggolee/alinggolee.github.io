@@ -10,6 +10,9 @@
 
 ## 討論主題 (Themes & Discussions)
 
+![](w%2007%2002.png)
+
+
 ### 當正當性突然「移動」時 (When Legitimacy Shifts)：
 
 觀賞 Paula Stone Williams 的 TED 演講：《當過男人與女人後，我所學到的事》。
