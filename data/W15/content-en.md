@@ -1,6 +1,6 @@
 # Week 15 ｜Final Structural Integration
 
-## Theoretical Core: The Cycle of Liberation
+## The Cycle of Liberation
 
 Our 15-week journey is not a line, but a cycle of growth:
 
@@ -19,14 +19,14 @@ Let's review the architecture of what we have built together:
 - Week 14: Advocacy & Educational Design (Mastering game facilitation).
 - Week 15: Integration, Celebration & Responsibility.
 
-## Engaging Reflection Questions
+## Reflection Questions
 
 - The "Aha" Moment: Looking back, when did you first feel your "structural literacy" develop? How has that changed your worldview?
 - Ethics in Action: Which of the Digital Gender Ethics Cards did you rely on most during your facilitation practice?
 - Future Commitment: As you step out of this classroom, how will you use "structural thinking" in your future professional decisions?
 
-## Closing: How Justice Lives
+## Closing Reflection
 
-"In these 15 weeks, you have moved from vocabulary to awareness, from awareness to structure, and from structure to responsibility. You are not leaving this course as the same person who entered. You now carry ethical awareness, structural thinking, and advocacy skills.
+In these 15 weeks, you have moved from basic gender concept to awareness, from awareness to structure, and from structure to responsibility. You are not leaving this course as the same person who entered. You now carry ethical awareness, structural thinking, and advocacy skills.
 
-You do not need to change the entire world. But you can change: how you speak, how you listen, how you intervene, how you facilitate, and how you stand with others. And that is how justice lives".
+We do not need to change the entire world. But we can change: how we speak, how we listen, how we intervene, how we facilitate, and how we stand with others. And that is how justice lives".
