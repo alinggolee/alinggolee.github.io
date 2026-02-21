@@ -1,6 +1,6 @@
 # Week 1 ｜Gender Education Introduction
 
-## Theoretical Core: The SOGIESC Map
+## The SOGIESC Map
 
 To discuss diversity clearly and respectfully, we adopt the SOGIESC framework:
 - **Sexual Orientation:** Who you are attracted to.
