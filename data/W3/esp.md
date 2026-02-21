@@ -1,8 +1,8 @@
-# Week 3 ｜性別特質與表現 (Gender expression)
+# Week 3 ｜性別氣質展現 (Gender expression)
 
 ## ESP 學習目標 (ESP ILOs)
 
-- 定義 什麼是性別表現（Gender Expression） 。
+- 定義 什麼是性別氣質展現（Gender Expression） 。
 - 區分 表現（Expression）與認同（Identity）的差異 。
 - 分析 公眾人物的案例並反思個人定位 。
 - 練習 使用 B1-B2 分析詞彙與 A2 討論句型 。
