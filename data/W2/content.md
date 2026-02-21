@@ -22,11 +22,11 @@
 ### 找回被偷走的名字 (Reclaiming Stolen Names)： 
 台灣原住民族曾有很長一段時間被迫放棄族名 。從排灣族的貴族榮譽到泰雅族的靈魂連續性，原民姓名反映了動態的文化價值，而非固定的性別規則 。
 
-  - [https://www.youtube.com/watch?v=2NSWSpXlaHI]
+::video[https://www.youtube.com/embed/2NSWSpXlaHI]
   - 原住民的名字權利｜志祺七七 。
-  
+
   -
-  - [https://www.youtube.com/embed/vbBjDL5soaw]
+  ::video[https://www.youtube.com/embed/vbBjDL5soaw]
   - 當一個人的名字被改變時，他的「性別身份」和「文化權力」會跟著消失嗎？你覺得名字比較像是一份「家族履歷」，還是一份「自我介紹」 ？
   
 ## Closing Reflection
