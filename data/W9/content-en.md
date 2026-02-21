@@ -29,7 +29,7 @@ In Truku tradition, a young man who loves a woman might use a "strategy" by offe
 
 Traditional leaders (Bukun) once managed harmony and external relations. However, modern administrative systems have shifted this authority.
 
-  - Humanized Question: Think about the elders in your family. When their "authority" shifts because the world has changed, does that make you feel liberated, or a little sad for the loss of tradition? How can we find our own voice while still respecting our roots?
+  - Think about the elders in your family. When their "authority" shifts because the world has changed, does that make you feel liberated, or a little sad for the loss of tradition? How can we find our own voice while still respecting our roots?
 ## Closing: How Justice Lives
 
 In these 15 weeks, we have moved from vocabulary to awareness, from awareness to structure, and from structure to responsibility. We are not leaving this course as the same person who entered. You now carry ethical awareness, structural thinking, and advocacy skills.
