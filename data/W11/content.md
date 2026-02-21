@@ -10,6 +10,12 @@
 - 商品化（Commodification）： 身體往往被媒體與商業轉化為商品，透過創造對容貌的焦慮來推銷產品 。
 ## Themes & Discussions（主題與討論）
 
+::video[https://www.youtube.com/embed/xAgawjzimjc]
+
+::video[https://www.youtube.com/embed/qtDMyGjYlMg]
+
+[《凱特溫絲蕾：追尋本真》](https://ptsplus2023.pse.is/7czfvb)
+
 我們將透過多個具代表性的案例，分析審美標準如何塑造我們的自我認同：
 
 - 《像女孩一樣》（#LikeAGirl）： 分析為什麼「像女孩」在社會語言中常帶有負面含義，以及這如何影響青少年的自我形象 。

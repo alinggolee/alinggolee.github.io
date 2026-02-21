@@ -14,6 +14,8 @@ Summary: A female student sent a nude photo to a male student she trusted from a
 
 ## Discussion Questions
 
+::video[https://www.youtube.com/embed/89fnOj-wLSU]
+
 - Beyond "Don'ts": The "Five Don'ts and Four Do's" are important, but why are they insufficient for university-level awareness?
 
 - Critiquing Trust: Is the statement "she sent it because she trusted him" too simple? How do power and fear operate in this interaction?
