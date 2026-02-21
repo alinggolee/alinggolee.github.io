@@ -154,7 +154,7 @@
     position: relative;
     overflow: hidden;
     padding-bottom: 0;
-    min-height: 500px;
+    min-height: 400px;
     /* Let it be shorter so it's less tall if they want less space, but enough to show the image */
     display: flex;
     flex-direction: column;
