@@ -14,6 +14,8 @@
 
 ::video[https://www.youtube.com/embed/qtDMyGjYlMg]
 
+::video[https://www.youtube.com/embed/VNaF716Ul1E]
+
 [《凱特溫絲蕾：追尋本真》](https://ptsplus2023.pse.is/7czfvb)
 
 我們將透過多個具代表性的案例，分析審美標準如何塑造我們的自我認同：

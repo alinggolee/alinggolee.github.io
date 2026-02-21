@@ -16,6 +16,8 @@ While harassment represents a visible use of power, body discipline operates thr
 
 ::video[https://www.youtube.com/embed/qtDMyGjYlMg]
 
+::video[https://www.youtube.com/embed/VNaF716Ul1E]
+
 [《凱特溫絲蕾：追尋本真》](https://ptsplus2023.pse.is/7czfvb)
 
 We will explore these concepts through diverse media narratives:
