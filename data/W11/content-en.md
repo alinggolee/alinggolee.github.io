@@ -12,6 +12,8 @@ While harassment represents a visible use of power, body discipline operates thr
 
 ## Themes & Critical Discussions
 
+[《凱特溫絲蕾：追尋本真》](https://ptsplus2023.pse.is/7czfvb)
+
 We will explore these concepts through diverse media narratives:
 
 - The #LikeAGirl Campaign: How language shapes self-regulation and identity .

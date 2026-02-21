@@ -10,6 +10,17 @@
 
 ## 討論主題 (Themes & Discussions)
 
+::video[https://www.youtube.com/embed/xhQt-7yI-wM]
+
+::video[https://www.youtube.com/embed/XYAghEq5Lfw]
+
+::video[https://www.youtube.com/embed/DhR3gRxkVJY]
+
+::video[https://www.youtube.com/embed/3MMEyHU2aZE]
+
+::video[https://www.youtube.com/embed/XYAghEq5Lfw]
+
+
 ### 你找什麼？ (What Are You Looking For?)：
 
 透過紀錄片《你找什麼？》探索當代社群軟體上的慾望風景。

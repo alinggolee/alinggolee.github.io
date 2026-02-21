@@ -8,6 +8,14 @@
 - 壓迫的循環： 我們將利用「壓迫循環」模型（刻板印象 → 偏見 → 歧視 → 壓迫 → 內化壓迫）來觀察社會如何對非傳統家庭施壓。
 ## 討論主題 (Themes & Discussions)
 
+::video[https://www.youtube.com/embed/xqvX3TdZrPo]
+
+::video[https://www.youtube.com/embed/3MMEyHU2aZE]
+
+::video[https://www.youtube.com/embed/n5HunLXdraY]
+
+::video[https://www.youtube.com/embed/Do40_mn9AKU]
+
 ### 「好父母」的腳本是誰寫的？：
 
 觀賞紀錄片《同愛一家》 (Love Together) 或《阿尼瑪：爸爸的洋裝》。

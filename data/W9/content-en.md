@@ -28,6 +28,8 @@ Let's review the architecture of what we have built together:
 
 ## Discussion Questions
 
+::video[https://www.youtube.com/embed/INKR6WUaWOU]
+
 ### Finding Freedom in a Glass of Wine:
 
 In Truku tradition, a young man who loves a woman might use a "strategy" by offering alcohol to her father until he is "intoxicated"—a sign of gaining his blessing.

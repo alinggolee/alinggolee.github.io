@@ -11,11 +11,12 @@ Sexual harassment is not a minor personal dispute; it is a boundary crossing wit
 
 ### The Choice in the Cup of Tea:
 
+::video[https://www.youtube.com/embed/oQbei5JGiT8]
+
 Using the classic video Tea Consent to understand enthusiastic consent.
 
   - If someone forced you to drink tea you didn't want, you’d feel violated. But in real life, when your body gives you a "bad vibe" or a chill, do you ever try to talk yourself out of it? How can we learn to trust our inner voice again?
   - Resource: Tea Consent Video
-[https://www.youtube.com/embed/oQbei5JGiT8]
 
 ### Moving Beyond "Why Didn't You Say No?":
 

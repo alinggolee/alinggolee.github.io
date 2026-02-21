@@ -10,6 +10,16 @@ In academic discourse, sexual orientation is more than just a label; it is a com
 
 ## Discussion Questions
 
+::video[https://www.youtube.com/embed/xhQt-7yI-wM]
+
+::video[https://www.youtube.com/embed/XYAghEq5Lfw]
+
+::video[https://www.youtube.com/embed/DhR3gRxkVJY]
+
+::video[https://www.youtube.com/embed/3MMEyHU2aZE]
+
+::video[https://www.youtube.com/embed/XYAghEq5Lfw]
+
 ### The Landscape of Desire: "Looking For?": Using the documentary Looking For? by Chou Tung-yen, we explore the digital landscape of modern attraction.
 
   - When you are scrolling through a dating app, are you looking for a "label" or a "human connection"? If we removed all the bio tags like "straight" or "gay," how would you describe the feeling of being "drawn" to someone? Is that feeling purely yours, or is it guided by what society calls an "ideal type"?

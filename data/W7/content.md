@@ -12,6 +12,7 @@
 
 ![](w_07_02.png)
 
+::video[https://www.youtube.com/embed/lrYx7HaUlMY]
 
 ### 當正當性突然「移動」時 (When Legitimacy Shifts)：
 

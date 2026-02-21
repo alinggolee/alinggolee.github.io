@@ -9,6 +9,14 @@ Parenting is often framed as a "private choice," but it is deeply regulated by s
 
 ## Discussion Questions
 
+::video[https://www.youtube.com/embed/xqvX3TdZrPo]
+
+::video[https://www.youtube.com/embed/3MMEyHU2aZE]
+
+::video[https://www.youtube.com/embed/n5HunLXdraY]
+
+::video[https://www.youtube.com/embed/Do40_mn9AKU]
+
 ### The Silent Judgment:
 
 Using the documentary Love Together (同愛一家) or Anima: My Father's Dress.
