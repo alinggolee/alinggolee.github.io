@@ -1,6 +1,6 @@
 # Week 9 ｜Tradition, Change, and Gendered Identity
 
-## Theoretical Core: The Dynamic Balance of Agency
+## The Dynamic Balance of Agency
 
 Social rules can sometimes feel like a "cage" (牢籠); however, when rules fade, people may experience a loss of standards. Today, we explore the "dynamic balance" between individuals and systems.
 
@@ -17,13 +17,13 @@ Let's review the architecture of what we have built together:
 - Week 14: Advocacy & Educational Design (Mastering game facilitation).
 - Week 15: Integration, Celebration & Responsibility.
 
-## Engaging Discussion Questions
+## Discussion Questions
 
 ### Finding Freedom in a Glass of Wine:
 
 In Truku tradition, a young man who loves a woman might use a "strategy" by offering alcohol to her father until he is "intoxicated"—a sign of gaining his blessing.
 
-  - Humanized Question: Do you think this man is "breaking the rules" or "playing the rules"? Have you ever found a clever, loving way to navigate a strict family rule while still being true to yourself?
+  - Do you think this man is "breaking the rules" or "playing the rules"? Have you ever found a clever, loving way to navigate a strict family rule while still being true to yourself?
 
 ### The Fading Voice of the Leader:
 
@@ -32,6 +32,4 @@ Traditional leaders (Bukun) once managed harmony and external relations. However
   - Humanized Question: Think about the elders in your family. When their "authority" shifts because the world has changed, does that make you feel liberated, or a little sad for the loss of tradition? How can we find our own voice while still respecting our roots?
 ## Closing: How Justice Lives
 
-"In these 15 weeks, you have moved from vocabulary to awareness, from awareness to structure, and from structure to responsibility. You are not leaving this course as the same person who entered. You now carry ethical awareness, structural thinking, and advocacy skills.
-
-You do not need to change the entire world. But you can change: how you speak, how you listen, how you intervene, how you facilitate, and how you stand with others. And that is how justice lives".
+In these 15 weeks, we have moved from vocabulary to awareness, from awareness to structure, and from structure to responsibility. We are not leaving this course as the same person who entered. You now carry ethical awareness, structural thinking, and advocacy skills.
