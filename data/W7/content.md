@@ -10,7 +10,7 @@
 
 ## 討論主題 (Themes & Discussions)
 
-![](w%2007%2002.png)
+![](w_07_02.png)
 
 
 ### 當正當性突然「移動」時 (When Legitimacy Shifts)：
