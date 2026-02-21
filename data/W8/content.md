@@ -1,5 +1,11 @@
 # Week 8 ｜多樣性與結構不平等（太魯閣族）(Diversity and Structural Inequality - Truku)
 
+## 學習目標
+•	解釋Gaya如何作為一個全面的性別規範體系運作。
+• 分析文化規則如何透過合法性和權威的分配來規範性別角色。
+• 運用結構主義理論，將Gaya文化與以家庭為基礎的性別規範進行比較。
+• 運用交織性思考分析文化性別體系。
+
 ## Gaya 作為一種規制系統 (Gaya as a Regulatory System)
 
 我們這週要練習把 Gaya 從「傳統」提升到「結構分析」的層次。
