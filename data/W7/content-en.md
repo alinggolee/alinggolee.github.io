@@ -10,7 +10,7 @@ Gender is more than a personal feeling; it is an active system of authority.
 
 ## Discussion Questions
 
-![](w 07 02.png)
+![](w%2007%2002.png)
 
 ### When the Room Goes Quiet:
 
