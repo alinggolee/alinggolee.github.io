@@ -13,7 +13,7 @@ To discuss diversity clearly and respectfully, we adopt the SOGIESC framework:
 ## Discussion Questions
 
 ### Invisible Lessons in Stories
-Have you ever looked back at your favorite childhood book and realized it was trying to tell you who to be? If we always see boys as the heroes and girls as the ones needing rescue, how does that sneak into our minds as we grow up?### 姓名的重量
+Have you ever looked back at your favorite childhood book and realized it was trying to tell you who to be? If we always see boys as the heroes and girls as the ones needing rescue, how does that sneak into our minds as we grow up?
 
 - [Interactive Kids' Books Analysis (pudding.cool)](https://pudding.cool/2025/07/kids-books/)
 
