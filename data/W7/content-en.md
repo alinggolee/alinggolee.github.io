@@ -10,6 +10,8 @@ Gender is more than a personal feeling; it is an active system of authority.
 
 ## Discussion Questions
 
+![](w 07 02.png)
+
 ### When the Room Goes Quiet:
 
 Using Paula Stone Williams' TED Talk: I’ve lived as a man and as a woman — here’s what I’ve learned.

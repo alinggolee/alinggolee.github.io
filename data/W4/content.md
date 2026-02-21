@@ -9,6 +9,10 @@
 
 ## 討論主題 (Themes & Discussions)
 
+::video[https://www.youtube.com/embed/w-_-0KN761s]
+
+::video[https://www.youtube.com/embed/f8cz7GIPgV8]
+
 ### 解碼「白馬王子與白雪公主」腳本：
 
 為什麼在媒體裡，男性總是拯救者，女性總是在等待？這些古老的敘事如何像「電腦程式碼」般，悄悄規範了我們對理想伴侶的想像？

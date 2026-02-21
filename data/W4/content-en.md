@@ -9,6 +9,10 @@ Gender norms are not neutral; they are actively maintained through social and me
 
 ## Discussion Questions
 
+::video[https://www.youtube.com/embed/w-_-0KN761s]
+
+::video[https://www.youtube.com/embed/f8cz7GIPgV8]
+
 ### The "Prince Charming" Code:
 
 Why does media often cast men as the "saviors" and women as those waiting to be rescued? These narratives act like "social code" that regulates our expectations for love and life.
