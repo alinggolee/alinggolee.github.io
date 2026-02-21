@@ -10,7 +10,7 @@ Gender expression is the way we communicate our gender to the world through exte
 
 ## Discussion Questions
 
-### From David Bowie’s glam rock style to Tai Tzu-Ying’s powerful presence on the court, how do these figures challenge the "standard script" of gender ?
+### From David Bowie’s glam rock style to Lin Yu-Ting’s powerful presence, how do these figures challenge the "standard script" of gender ?
 
 
   - Have you ever felt a "spark of anxiety" when wearing something that doesn't fit people's expectations of you? Does that anxiety come from you, or from the "imaginary gender police" in the room? Why does society feel the need to monitor our wardrobes ?
