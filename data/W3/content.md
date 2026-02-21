@@ -10,6 +10,10 @@
 
 ## 討論主題 (Themes & Discussions)
 
+::video[https://www.youtube.com/embed/mEyW-Isokdo]
+
+::video[https://www.youtube.com/embed/V_M9ZId2QAY&t=23s]
+
 ### 從 70 年代的 David Bowie 到奧運女拳國手林郁婷，這些公眾人物有挑戰社會對性別表現的「標準劇本」嗎？
 
   - 當你今天穿上一件「不符合性別預期」的衣服出門時（例如男生穿蕾絲、女生剃平頭），你感到的那一絲緊張，是來自你的心，還是來自路人的眼睛？為什麼社會要「檢查」我們的穿搭 ？

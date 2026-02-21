@@ -10,9 +10,9 @@ Gender expression is the way we communicate our gender to the world through exte
 
 ## Discussion Questions
 
-[https://www.youtube.com/watch?v=mEyW-Isokdo<img width="432" height="24" alt="image" src="https://github.com/user-attachments/assets/26dde3aa-da42-48ab-ae4e-2d1003ce26f4" />]
+::video[https://www.youtube.com/embed/mEyW-Isokdo]
 
-[https://www.youtube.com/watch?v=V_M9ZId2QAY&t=23s<img width="435" height="41" alt="image" src="https://github.com/user-attachments/assets/f5a1a94b-c820-4300-a368-0c76b1c3aed0" />]
+::video[https://www.youtube.com/embed/V_M9ZId2QAY&t=23s]
 
 
 ### From David Bowie’s glam rock style to Lin Yu-Ting’s powerful presence, how do these figures challenge the "standard script" of gender ?

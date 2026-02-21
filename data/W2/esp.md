@@ -11,19 +11,13 @@
 
 Expectation (期待)	台灣傳統命名中，女孩常被期待要「乖巧」或「溫柔」 。
 
-+1
-
 Inheritance (繼承)	英國歷史上常見「父系繼承」(Patrilineal inheritance)，如 Johnson 代表 John 的兒子 。
-
-+3
 
 Unisex (中性/男女通用)	現代父母常選用 Jordan 或 Taylor 等中性名字，以減少性別標籤 。
 
 ## TEEMI 口說練習準備 (TEEMI Prep Mission)
 
 為了幫助你準備本週的 TEEMI 口說練習，請試著練習這組「比較句型」，這能幫你更有邏輯地描述觀察 ：
-
-+1
 
 ### "In my culture, names often reflect gender expectations such as strength or beauty." (在我的文化中，名字常反映如強度或美感等性別期待。)
 
