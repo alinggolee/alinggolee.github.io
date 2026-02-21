@@ -1,4 +1,14 @@
 # Week 9 ｜Tradition, Change, and Gendered Identity
+<img width="435" height="112" alt="image" src="https://github.com/user-attachments/assets/7b91db57-29e2-4c5b-bfa7-ce9ce17c3c43" />
+
+## Weekly Learning Goals
+By the end of this lesson, students will be able to:
+1.	Analyze how cultural gender norms operate within Gaya.
+2.	Identify moments of reinterpretation and resistance.
+3.	Examine how legitimacy shifts across generations.
+4.	Apply structural theory to personal family norms.
+
+
 
 ## The Dynamic Balance of Agency
 
