@@ -28,14 +28,13 @@ Facilitation is not just about explaining rules; it is about carrying an ethical
 
 
 
-Game Setup (遊戲準備說明)
+## Game Setup (遊戲準備說明)
 Arrange Strategy Cards Face-up (策略卡圖面朝上排列)
 Place Draw Deck (放置牌庫)
 Player (玩家)
 Shelter (庇護所)
 Unused Crisis Cards (未入牌庫的危機卡)
 Gem Supply (寶石庫)
-
 
 Round 1: Game Setup Card
 From the 10 Crisis types, select 4 to add to the deck for this round.
@@ -44,16 +43,12 @@ Shuffle the above with Gem Cards and one set of Artifact Cards to form the Round
 Place the Help Strategy Cards (7 types) in separate face-up stacks to the side.
 Rule: At the end of each round, players can spend Gems to purchase Help Strategy Cards.
 
-
 Round 2: Game Setup Card
 From the 6 Crisis types not selected in Round 1, select 4 to add to the deck for this round.
 Add 1 “Lost in the Net” Card.
 Shuffle these with Gem Cards and one set of Artifact Cards to form the Round 2 Draw Deck.
 The remaining setup and gameplay are the same as Round 1 (The 7 types of Help Strategy Cards remain face-up available for purchase).
 Rule: At the end of each round, players can spend Gems to purchase Help Strategy Cards.
-
-
-
 
 Round 3: Game Setup Card
 First, add the 2 remaining Crisis types.
@@ -79,8 +74,6 @@ If the same Crisis appears for the third time à The round ends immediately. All
 If players possess a Help Strategy Card, they can eliminate the third identical Crisis. In the next turn, they can choose: to continue exploring or to retreat safely to the Shelter.
 
 
-
-
 Game Flow & Rules Cards
 (B) If a Gem Card is revealed: 
 Distribute the Gem quantity equally among all players currently remaining in the adventure. If there is a remainder, place the leftover Gems on the card to be potentially collected later.
@@ -89,14 +82,6 @@ Place the Artifact Card on the path. It can only be claimed directly by a player
 Step 3: “Time to Seek Help?”
 At the end of each round, players may freely decide whether to purchase a Help Strategy Card. If the supply of cards is insufficient, players determine the recipient through a bidding auction.
 —————— Round Sequence (Repeat 3 Steps + End Condition) ——————
-
-
-
-
-
-
-
-
 
 
 
@@ -110,33 +95,16 @@ Block and Report (封鎖與檢舉對方)
 Contact Sexual Image Abuse Reporting Center (SIARC) (性影像處理中心網站)
 
 
-Tell a Trusted Adult 
-Explain the situation to parents, homeroom teachers, school counselors, school nurses, military instructors, or any trusted adult to seek assistance or protection.
-Call a Helpline 
-Call official agencies such as the 113 Protection Hotline, 110 (Police), the Ministry of Education Anti-bullying Platform, or the Campus Security Center.
-Save Evidence 
-Preserve evidence such as chat logs, screenshots, and images (do not reply, do not delete) to facilitate future complaints or police reporting.
-Seek Peer Support 
-Discuss with trusted friends so you don’t have to face it alone; you can even ask classmates to accompany you to report the issue to a teacher.
-Report to School or Gender Equity Channels 
-Report via the homeroom teacher, Gender Equity Education Committee, Counseling Office, Principal's Mailbox, or anonymous reporting systems to initiate protection procedures.
-Block and Report 
-Directly block or report the account on social media platforms or messaging apps, and avoid any further interaction with them.
-Contact Sexual Image Abuse Reporting Center (SIARC)
-SIARC provides professional online assistance to victims year-round. Through relevant measures, it helps victims recover from trauma and return to their daily lives.
-
-
 Gem Icon Explanation (寶石圖示說明)
 Each gem worth 1 point. (每顆寶石可得1分)
 Knowledge Gem (知識寶石)
 Friendship Gem (友情寶石)
 Love Gem (愛情寶石)
 Money Gem (金錢寶石)
-<img width="347" height="251" alt="截圖 2026-02-22 下午2 10 48" src="https://github.com/user-attachments/assets/3d76a965-50db-41f0-bb3c-3c36a81797fd" />
-
 
 Visit SIARC Website (性影像處理中心網站 )
 Save Evidence (保留證據截圖)
 Download Game Manual (遊戲手冊下載 )
 Seek Peer Support (尋求同儕支援 )
 
+<img width="347" height="251" alt="截圖 2026-02-22 下午2 10 48" src="https://github.com/user-attachments/assets/3d76a965-50db-41f0-bb3c-3c36a81797fd" />
