@@ -10,22 +10,17 @@
 
 ## 討論主題 (Themes & Discussions)
 
-::video[https://www.youtube.com/embed/xhQt-7yI-wM]
-
-::video[https://www.youtube.com/embed/XYAghEq5Lfw]
-
-::video[https://www.youtube.com/embed/DhR3gRxkVJY]
-
 ::video[https://www.youtube.com/embed/3MMEyHU2aZE]
-
-::video[https://www.youtube.com/embed/XYAghEq5Lfw]
-
 
 ### 你找什麼？ (What Are You Looking For?)：
 
 透過紀錄片《你找什麼？》探索當代社群軟體上的慾望風景。
 
   - 人性化提問： 當你在軟體上滑動時，你是在尋找一個「標籤」，還是在尋找一份「連結」？如果我們拿掉所有的標籤，你如何描述你對一個人的「心動」？這種心動是來自你的本能，還是社會教導你的「理想型」 ？
+
+
+::video[https://www.youtube.com/embed/XYAghEq5Lfw]
+
 ### 我的青春不被定義 (The Power of Youth)：
 
 觀賞 Troye Sivan 的《YOUTH》，感受那份模糊且自由的自我探索。
@@ -34,3 +29,7 @@
 ## 結語 (Closing Reflection)
 
 性傾向不僅是個人偏好，它受到社會的詮釋、規範與政治化。學術性地理解吸引力，是為了減少傷害與歧視，增加我們的結構識讀力。慾望存在於社會之中；要理解慾望，我們必須先理解權力 。
+
+::video[https://www.youtube.com/embed/xhQt-7yI-wM]
+
+::video[https://www.youtube.com/embed/DhR3gRxkVJY]
