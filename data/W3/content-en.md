@@ -29,5 +29,3 @@ Gender expression is not a binary choice; it is a flowing spectrum. You don't ha
 ::video[https://www.youtube.com/embed/mEyW-Isokdo]
 
 ::video[https://www.youtube.com/embed/V_M9ZId2QAY]
-
-::video[https://www.youtube.com/embed/DhR3gRxkVJY]
