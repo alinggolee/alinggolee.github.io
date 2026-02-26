@@ -11,10 +11,6 @@ Names are not just sounds; they are part of gender politics.
 ## Discussion Questions
 
 
-::video[https://www.youtube.com/embed/2NSWSpXlaHI]
-  - Have their names been stolen?｜Shichi 77.
-
-
 ### Is Your Name a Cage or a Suit? In English-speaking cultures, names like "Grace" imply elegance, while "Edward" means "guardian of wealth". Similar patterns exist in Taiwan, where names are often "soft" for girls and "strong" for boys .
 
   - Close your eyes and say your name. Does it feel like a "perfectly tailored suit" that helps you move, or a "tight label" that holds you back? If you swapped names with someone of a different gender today, how would the world treat you differently ?
@@ -30,3 +26,6 @@ Names are not just sounds; they are part of gender politics.
 ## Closing Reflection
 
 Names are not destiny. But they are social signals. Signals create expectations. Expectations shape opportunity. Next week, we will ask: How do we 'perform' those expectations in our daily lives?
+
+::video[https://www.youtube.com/embed/2NSWSpXlaHI]
+  - Have their names been stolen?｜Shichi 77.
