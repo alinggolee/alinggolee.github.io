@@ -11,7 +11,6 @@ Gender norms are not neutral; they are actively maintained through social and me
 
 ::video[https://www.youtube.com/embed/w-_-0KN761s]
 
-::video[https://www.youtube.com/embed/f8cz7GIPgV8]
 
 ### The "Prince Charming" Code:
 
@@ -26,3 +25,5 @@ Using the framework of Describe → Analyze → Vision → Action, let's deconst
 ## Closing Reflection
 
 Gender norms are maintained through repetition, social reaction, and silence. Media literacy is not a weapon for blame; it is a tool for vision. When we see the structure, we reclaim our power to decide who we want to be in the world.
+
+::video[https://www.youtube.com/embed/f8cz7GIPgV8]
