@@ -10,13 +10,6 @@ Gender expression is the way we communicate our gender to the world through exte
 
 ## Discussion Questions
 
-::video[https://www.youtube.com/embed/mEyW-Isokdo]
-
-::video[https://www.youtube.com/embed/V_M9ZId2QAY]
-
-::video[https://www.youtube.com/embed/DhR3gRxkVJY]
-
-::video[https://www.youtube.com/embed/Jb-Oys-IcWE]
 
 ### From David Bowie’s glam rock style to Lin Yu-Ting’s powerful presence, how do these figures challenge the "standard script" of gender ?
 
@@ -26,7 +19,15 @@ Gender expression is the way we communicate our gender to the world through exte
 ### From "Insult" to "Identity": Words like "Tomboy" or "Gentleboy" have shifted in meaning over time. While "Tomboy" originally suggested a "rude boy," it has been reclaimed as a symbol of bold, sporty femininity .
 
   - In your social circle, is it "braver" for a girl to be masculine or a boy to be feminine? Do these labels feel like a "shield" that protects your identity, or a "fence" that keeps you in ?
+
+::video[https://www.youtube.com/embed/Jb-Oys-IcWE]
   
 ## Closing Reflection
 
 Gender expression is not a binary choice; it is a flowing spectrum. You don't have to shrink yourself to fit a script. Remember: your body is your canvas, and your expression is the first story you tell the world every single day.
+
+::video[https://www.youtube.com/embed/mEyW-Isokdo]
+
+::video[https://www.youtube.com/embed/V_M9ZId2QAY]
+
+::video[https://www.youtube.com/embed/DhR3gRxkVJY]
