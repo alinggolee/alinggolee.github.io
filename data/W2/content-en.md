@@ -10,6 +10,11 @@ Names are not just sounds; they are part of gender politics.
 
 ## Discussion Questions
 
+
+::video[https://www.youtube.com/embed/2NSWSpXlaHI]
+  - Have their names been stolen?｜Shichi 77.
+
+
 ### Is Your Name a Cage or a Suit? In English-speaking cultures, names like "Grace" imply elegance, while "Edward" means "guardian of wealth". Similar patterns exist in Taiwan, where names are often "soft" for girls and "strong" for boys .
 
   - Close your eyes and say your name. Does it feel like a "perfectly tailored suit" that helps you move, or a "tight label" that holds you back? If you swapped names with someone of a different gender today, how would the world treat you differently ?
@@ -18,9 +23,6 @@ Names are not just sounds; they are part of gender politics.
 
 ### Indigenous names in Taiwan often reflect connection to land, ancestry, or social class rather than just biological traits . For example, Paiwan names honor family honor and land connection.
 
-
-::video[https://www.youtube.com/embed/2NSWSpXlaHI]
-  - Have their names been stolen?｜Shichi 77.
 
 ::video[https://www.youtube.com/embed/vbBjDL5soaw]
   - When a culture's naming system is erased, do the "gender roles" within that culture change too? Is your name a "family resume" or a "personal introduction"?
