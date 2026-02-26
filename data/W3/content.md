@@ -10,13 +10,8 @@
 
 ## 討論主題 (Themes & Discussions)
 
-::video[https://www.youtube.com/embed/mEyW-Isokdo]
 
-::video[https://www.youtube.com/embed/V_M9ZId2QAY]
 
-::video[https://www.youtube.com/embed/DhR3gRxkVJY]
-
-::video[https://www.youtube.com/embed/Jb-Oys-IcWE]
 
 ### 從 70 年代的 David Bowie 到奧運女拳國手林郁婷，這些公眾人物有挑戰社會對性別表現的「標準劇本」嗎？
 
@@ -26,8 +21,15 @@
 「Tomboy」曾帶有粗魯的含義，現在卻是帥氣的象徵；而「Gentleboy」則代表了一種溫柔、細膩的新男性氣質 。
 
   - 在你的成長歷程中，可能遇過女生表現得「像男生」或男生表現得「像女生」嗎？這些標籤對你來說是一種「保護」，還是一種「限制」 ？
+::video[https://www.youtube.com/embed/Jb-Oys-IcWE]
   
 ## 結語 (Closing Reflection)
 
 性別氣質展現並不是一個非黑即白的選擇，而是一道流動的光譜。我們不需要為了符合劇本而縮小自己。
 請記住：你的身體就是你的畫布，而你的性別氣質展現，也可以是你寫給世界的一封情書。
+
+::video[https://www.youtube.com/embed/mEyW-Isokdo]
+
+::video[https://www.youtube.com/embed/V_M9ZId2QAY]
+
+::video[https://www.youtube.com/embed/DhR3gRxkVJY]
