@@ -22,6 +22,9 @@
 
   - 在你的成長歷程中，可能遇過女生表現得「像男生」或男生表現得「像女生」嗎？這些標籤對你來說是一種「保護」，還是一種「限制」 ？
 ::video[https://www.youtube.com/embed/Jb-Oys-IcWE]
+
+::video[https://www.youtube.com/embed/V_M9ZId2QAY]
+
   
 ## 結語 (Closing Reflection)
 
@@ -30,6 +33,5 @@
 
 ::video[https://www.youtube.com/embed/mEyW-Isokdo]
 
-::video[https://www.youtube.com/embed/V_M9ZId2QAY]
 
 
