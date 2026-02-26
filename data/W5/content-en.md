@@ -10,19 +10,15 @@ In academic discourse, sexual orientation is more than just a label; it is a com
 
 ## Discussion Questions
 
-::video[https://www.youtube.com/embed/xhQt-7yI-wM]
-
-::video[https://www.youtube.com/embed/XYAghEq5Lfw]
-
-::video[https://www.youtube.com/embed/DhR3gRxkVJY]
-
 ::video[https://www.youtube.com/embed/3MMEyHU2aZE]
-
-::video[https://www.youtube.com/embed/XYAghEq5Lfw]
 
 ### The Landscape of Desire: "Looking For?": Using the documentary Looking For? by Chou Tung-yen, we explore the digital landscape of modern attraction.
 
   - When you are scrolling through a dating app, are you looking for a "label" or a "human connection"? If we removed all the bio tags like "straight" or "gay," how would you describe the feeling of being "drawn" to someone? Is that feeling purely yours, or is it guided by what society calls an "ideal type"?
+
+
+::video[https://www.youtube.com/embed/XYAghEq5Lfw]
+
 ### Unlabeled Youth: Exploring the song YOUTH by Troye Sivan, which celebrates the freedom of self-discovery.
 
   - Have you ever felt that society is in a hurry to "categorize" your feelings? If we chose to remain "unlabeled" for a while, would that feel like a scary lack of direction, or like a total, beautiful freedom?
@@ -30,3 +26,8 @@ In academic discourse, sexual orientation is more than just a label; it is a com
 ## Closing Reflection
 
 Sexual orientation is not merely a personal preference; it is socially interpreted, regulated, and politicized. Understanding attraction academically allows us to reduce harm and erasure. Desire exists within society; to understand desire, we must first understand power.
+
+
+::video[https://www.youtube.com/embed/xhQt-7yI-wM]
+
+::video[https://www.youtube.com/embed/DhR3gRxkVJY]
