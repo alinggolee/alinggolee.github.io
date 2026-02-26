@@ -11,7 +11,7 @@
 
 ::video[https://www.youtube.com/embed/w-_-0KN761s]
 
-::video[https://www.youtube.com/embed/f8cz7GIPgV8]
+
 
 ### 解碼「白馬王子與白雪公主」腳本：
 
@@ -28,3 +28,5 @@
 ## 結語 (Closing Reflection)
 
 性別規範從來不是中立的。它們透過重複、嘲笑與沉默來維持。媒體識讀不是為了指責，而是為了讓我們獲得看穿結構的能力。當我們看清了結構，我們就不再只是被動的受眾，而是有權力的行動者。
+
+::video[https://www.youtube.com/embed/f8cz7GIPgV8]
