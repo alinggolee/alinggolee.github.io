@@ -11,11 +11,14 @@
 - Heteronormativity (n.): The assumption that heterosexuality is the "default" or "normal" family form.
 - Gender Policing (n.): Social correction or judgment directed at those who do not fit gender stereotypes.
 - Structural Bias (n.): Bias that is built into the rules and procedures of organizations.
+
 ## TEEMI Speaking Prep (Review & Practice)
 
 Ready to talk to TEEMI? Use these B1-B2 level "Analysis Frames" to build your professional response:
 
-- Making a Claim: "This institutional practice reflects structural bias because it excludes..."
-- Explaining Impact: "The moral panic surrounding diverse parenting often creates unnecessary stress for the children."
-- Proposing Action: "In our Build Vision phase, we suggest adopting more inclusive language in school policies."
+1.Why do parents ask  their girls to come back home before sun set?
+ 
+2.One day, when you become a parent, will you ask your girl to come back home before sun set? Why?
+
+3.Share your opinion about third film. Why the daughter asks her Mom to answer this question "Do you love me?"  
 [Launch TEEMI Family Support Lab]
