@@ -6,10 +6,12 @@
 
 - 異性戀常態與社會法規： 社會往往預設了「正常家庭」的模樣。這些非正式的性別規範（如：好父母該如何教養出「標準」的兒女）其力量有時比法律更強大，發揮著監控與調節的作用。
 - 壓迫的循環： 我們將利用「壓迫循環」模型（刻板印象 → 偏見 → 歧視 → 壓迫 → 內化壓迫）來觀察社會如何對非傳統家庭施壓。
+
 ## 討論主題 (Themes & Discussions)
 
 Discussion Questions
 The Silent Judgment I
+
 ::video [https://www.youtube.com/embed/Do40_mn9AKU]
 
 ＊Using the documentary Small Talk（日常對話）
@@ -110,6 +112,7 @@ Anima: My Father's Dress（阿尼瑪：爸爸的洋裝）
 
 
 ::video[https://www.youtube.com/embed/xqvX3TdZrPo]
+
 ::video[https://www.youtube.com/embed/n5HunLXdraY]
 
 Reflection Questions
