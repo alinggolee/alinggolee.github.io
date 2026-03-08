@@ -8,18 +8,120 @@
 - 壓迫的循環： 我們將利用「壓迫循環」模型（刻板印象 → 偏見 → 歧視 → 壓迫 → 內化壓迫）來觀察社會如何對非傳統家庭施壓。
 ## 討論主題 (Themes & Discussions)
 
-::video[https://www.youtube.com/embed/xqvX3TdZrPo]
+Discussion Questions
+The Silent Judgment I
+https://www.youtube.com/embed/Do40_mn9AKU
 
-::video[https://www.youtube.com/embed/n5HunLXdraY]
+＊Using the documentary Small Talk（日常對話）
+Huang Hui-chen (Director). (2016). Small Talk
 
-::video[https://www.youtube.com/embed/Do40_mn9AKU]
+This film shows the relationship between a daughter（女兒） and her mother（母親）.
+The story also talks about sexual orientation（性傾向）, family silence（家庭沉默）, and social expectations（社會期待）.
 
-### 「好父母」的腳本是誰寫的？：
+Thinking Tool
+The Cycle of Oppression（壓迫循環）
 
-觀賞紀錄片《同愛一家》 (Love Together) 或《阿尼瑪：爸爸的洋裝》。
+Many social conflicts begin with gender expectations（性別期待）.
 
-  - 當你看到這些家庭在超市或公園被路人投以「異樣眼光」時，那份沉默的壓力是從哪裡來的？如果你是那位父親或母親，這份壓力會讓你想要「躲起來」，還是更有勇氣去「重新定義」什麼是家？
+We can understand this process with a simple model:
 
+Stereotype（刻板印象）
+↓
+Prejudice（偏見）
+↓
+Discrimination（歧視）
+
+This framework helps us see how social norms（社會常規） influence families and relationships.
+
+1 Gender Expectations（性別期待）
+
+Think about the film.
+
+What expectations about gender or family appear in this story?
+
+Examples:
+
+mothers should follow traditional roles（傳統角色）
+
+lesbian relationships（女同志關係） are not accepted
+
+families should look “normal”（正常家庭）
+
+Discussion questions:
+
+What stereotype（刻板印象） about mothers or families appears in the film?
+
+Why does society have these expectations?
+
+2 From Stereotype to Discrimination
+
+（從刻板印象到歧視）
+
+Think about this question:
+
+How can stereotypes（刻板印象） create prejudice（偏見）?
+
+Example:
+
+Stage	Example
+Stereotype（刻板印象）	A woman should marry a man
+Prejudice（偏見）	Same-sex relationships are seen as wrong
+Discrimination（歧視）	Family rejection or silence
+
+Discussion question:
+
+What discrimination（歧視） might happen in real life?
+
+3 Whole Class Reflection（全班討論）
+
+Discuss these questions:
+
+Why do some families avoid talking about gender（性別） or sexual orientation（性傾向）?
+
+How does family silence（家庭沉默） affect family relationships?
+
+If you were the director（導演）, how would you understand your mother?
+
+Key Idea
+
+Family conflicts are not only personal problems（個人問題）.
+
+They are often connected to:
+
+gender norms（性別常規）
+
+cultural expectations（文化期待）
+
+social pressure（社會壓力）
+
+Understanding these social structures（社會結構） helps us develop:
+
+empathy（同理心）
+
+critical thinking（批判思考）
+
+The Silent Judgment II
+
+＊Using the documentary:
+
+Love Together（同愛一家）
+or
+Anima: My Father's Dress（阿尼瑪：爸爸的洋裝）
+
+https://www.youtube.com/embed/xqvX3TdZrPo
+https://www.youtube.com/embed/n5HunLXdraY
+Reflection Questions
+
+Have you ever noticed the look（眼光） strangers give
+when a parent does not fit the traditional family image（傳統家庭形象）?
+
+Where does this silent pressure（無聲壓力） come from?
+
+If you were in their shoes,
+
+would that pressure make you want to hide（隱藏自己）?
+
+Or would it inspire you to redefine home（重新定義家庭）?
 
 **性別教養的交織性**
 1.（田野故事-非洲）過去，父母很擔心孩子在戶外，天黑前一定要回到家。如今，他們擔心的是孩子們不願意做出家門，而是花幾個小時甚至幾天玩電子產品。 Z世代深受科技影響使得性別教養另有新議題。
