@@ -10,7 +10,7 @@
 
 Discussion Questions
 The Silent Judgment I
-https://www.youtube.com/embed/Do40_mn9AKU
+::video [https://www.youtube.com/embed/Do40_mn9AKU]
 
 ＊Using the documentary Small Talk（日常對話）
 Huang Hui-chen (Director). (2016). Small Talk
@@ -108,8 +108,8 @@ Love Together（同愛一家）
 or
 Anima: My Father's Dress（阿尼瑪：爸爸的洋裝）
 
-https://www.youtube.com/embed/xqvX3TdZrPo
-https://www.youtube.com/embed/n5HunLXdraY
+::video[https://www.youtube.com/embed/xqvX3TdZrPo]
+::video[https://www.youtube.com/embed/n5HunLXdraY]
 Reflection Questions
 
 Have you ever noticed the look（眼光） strangers give
