@@ -10,15 +10,53 @@ Heteronormativity and Social Rules:
 
 ## Discussion Questions
 
+### The Silent Judgment Ｉ:
+::video[https://www.youtube.com/embed/Do40_mn9AKU]
+
+＊Using the documentray Small Talk（日常對話）.
+Huang Hui-chen (Director). (2016). Small Talk.
+https://www.youtube.com/watch?v=Do40_mn9AKU
+
+The Cycle of Oppression
+1.Gender Expectations
+
+Stereotype → Prejudice → Discrimination
+
+This framework helps us understand
+how social norms influence families.
+
+  - What expectations about gender or family appear in this story?
+  - What stereotype about mothers or family appears in the film?
+
+Examples
+mothers should follow traditional roles
+lesbian relationships are not accepted
+families should look “normal”
+
+2.From Stereotype to Discrimination
+   - How can stereotypes create prejudice?
+   - What discrimination might happen in real life?
+
+3.Whole Class Reflection
+Discuss these questions:
+
+   - Why do some families avoid talking about gender or sexuality?
+   - How does silence affect family relationships?
+   - If you were the director, how would you understand your mother?
+
+   Family conflicts are not only personal problems.They are often connected to:
+   gender norms
+   cultural expectations
+   social pressure
+
+Understanding these structures helps us develop empathy and critical thinking.
+
+### The Silent Judgment ＩＩ:
+
+＊Using the documentary Love Together (同愛一家) or Anima: My Father's Dress.
 ::video[https://www.youtube.com/embed/xqvX3TdZrPo]
 
 ::video[https://www.youtube.com/embed/n5HunLXdraY]
-
-::video[https://www.youtube.com/embed/Do40_mn9AKU]
-
-### The Silent Judgment:
-
-Using the documentary Love Together (同愛一家) or Anima: My Father's Dress.
 
   - Have you ever noticed the "look" strangers give when a parent doesn't fit the traditional image of a family? Where does that silent pressure come from? If you were in their shoes, would that pressure make you want to "hide," or would it inspire you to "redefine" what home means to you?
 
