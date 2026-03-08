@@ -2,23 +2,57 @@
 
 ## ESP Intended Learning Outcomes (ILOs)
 
-- Use key vocabulary about gender, parenting, and social norms correctly.
-- Employ sentence frames to analyze norms and power dynamics.
-- Write a concise mini-report using the four analytical steps.
-- Communicate using inclusive and supportive language in professional roleplays.
-## Key Vocabulary & Contextual Practice
+Use key vocabulary related to gender, parenting, and social norms accurately.
 
-- Heteronormativity (n.): The assumption that heterosexuality is the "default" or "normal" family form.
-- Gender Policing (n.): Social correction or judgment directed at those who do not fit gender stereotypes.
-- Structural Bias (n.): Bias that is built into the rules and procedures of organizations.
+Apply sentence structures to analyze social expectations and power relations.
+
+Write a short four-step reflection report.
+
+Practice inclusive and supportive language in simulated communication situations.
+
+## Reflection Questions 
+
+Have you ever noticed the look strangers give
+when a parent does not fit the traditional image of a family?
+
+Where does this silent pressure come from?
+
+If you were in their shoes,
+
+would that pressure make you want to hide?
+
+Or would it inspire you to redefine what home means?
+
+## Key Vocabulary 
+
+gender expectations
+gender norms
+sexual orientation
+family silence
+social pressure
+stereotype
+prejudice
+discrimination
+
+| Target Vocabulary  | Professional Example                                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| Gender Policing    | Society sometimes practices **gender policing** by criticizing parents who do not follow traditional gender roles. |
+| Moral Panic        | Fear of diverse family forms can create **moral panic** in society.                                                |
+| Protective Factors | Community support can act as an important **protective factor** for marginalized families.                         |
+
 
 ## TEEMI Speaking Prep (Review & Practice)
 
-Ready to talk to TEEMI? Use these B1-B2 level "Analysis Frames" to build your professional response:
+To prepare for your TEEMI conversation, review today's lesson and try to discuss the following topics using the vocabulary above.
 
-1.Why do parents ask  their girls to come back home before sun set?
- 
-2.One day, when you become a parent, will you ask your girl to come back home before sun set? Why?
+Discussion Topics
 
-3.Share your opinion about third film. Why the daughter asks her Mom to answer this question "Do you love me?"  
+Why do some parents ask their daughters to return home before sunset?
+
+When you become a parent one day, would you ask your daughter to return home before sunset? Why or why not?
+
+Share your thoughts about the third film.
+Why do you think the daughter asks her mother,
+“Do you love me?”
+
 [Launch TEEMI Family Support Lab]
