@@ -21,15 +21,15 @@ Gender privilege means that some people have advantages because of their gender.
 
 For example:
 
-1️⃣ Workplace
+1.Workplace
 In some companies, men are promoted more often than women.
 Even when women have the same skills, they may be questioned more.
 
-2️⃣ Public Safety
+2.Public Safety
 In many places, men can walk alone at night without much fear.
 Women often think about their safety and worry about harassment.
 
-3️⃣ Speaking in Public
+3.Speaking in Public
 Men are often seen as confident leaders.
 Women who speak strongly may be called “too emotional” or “too aggressive.”
 
