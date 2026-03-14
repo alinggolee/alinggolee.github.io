@@ -24,6 +24,7 @@ It really controls children.
 
 Grad Ma: 
 If you left rice in your bowl, then in the future, you will get married to a girl with freckles on her face.
+
 Gran Son: 
 You see, my mother has freckles on her face.
 
