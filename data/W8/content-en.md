@@ -16,13 +16,23 @@ Gaya is often framed as ancestral protection, but it can also feel like a "frigh
   - Imagine if every single choice you made—what you wore today or who you shared a meal with—was being watched by the "eyes of the ancestors." Does that feel like a warm hug or a heavy surveillance camera? Does your own culture have an "invisible Gaya" that guides your gender expression?
 
 EX:
+
+
 **Taiwan：**
-Don't  wasting food, or the God of thunder will punish you.
-It really control especial children. 
+Don't  waste food, or the God of thunder will punish you.
+It really controls children. 
+
+Grad Ma: 
+If you left rice in your bowl, then in the future, you will get married to a girl with freckles on her face.
+Gran Son: 
+You see, my mother has freckles on her face.
+
 
 **Malawian：**
+
 In Malawian culture and Christianity, people are taught not to do bad things because God sees everything and will punish those who do wrong. 
  and the Christian faith, children are taught not to steal meat from the pot because God is watching and will punish wrongdoing.
+
 
 
 ### Who Defines Morality? (The Privilege of Judgment):
