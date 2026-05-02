@@ -1,0 +1,46 @@
+{
+    "settings": {
+        "cardMinWidth": "340px",
+        "cardMinHeight": "300px"
+    },
+    "sites": [
+        {
+            "id": "gender-education",
+            "url": "https://alinggolee.github.io/GenderEducation/",
+            "title": {
+                "zh": "性別教育",
+                "en": "Gender Education"
+            },
+            "iconSvg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"></path><circle cx=\"9\" cy=\"7\" r=\"4\"></circle><path d=\"M23 21v-2a4 4 0 0 0-3-3.87\"></path><path d=\"M16 3.13a4 4 0 0 1 0 7.75\"></path></svg>"
+        },
+        {
+            "id": "green-healing",
+            "url": "https://alinggolee.github.io/GreenHealing/",
+            "title": {
+                "zh": "綠色療癒",
+                "en": "Green Healing"
+            },
+            "iconSvg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10Z\" /><path d=\"M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12\" /></svg>"
+        }
+    ],
+    "footer": [
+        {
+            "labelZh": "網頁設計",
+            "labelEn": "Web Design",
+            "valueZh": "李雪菱",
+            "valueEn": "Alinggo Lee"
+        },
+        {
+            "labelZh": "網站架設",
+            "labelEn": "Web Development",
+            "valueZh": "徐牧微",
+            "valueEn": "Momo Hsu"
+        },
+        {
+            "labelZh": "經費來源",
+            "labelEn": "Funding",
+            "valueZh": "臺科大EMI中心",
+            "valueEn": "NTUST EMI TLC"
+        }
+    ]
+}
