@@ -361,8 +361,8 @@ html[data-lang="en"] .lang-zh:not(.bilingual > span) {
     left: 0;
     width: 100%;
     z-index: 10;
-    padding: 0 2rem;
-    height: 4.5rem; /* 底欄固定高度 */
+    padding: 0.8rem 2rem;
+    min-height: 4.5rem;
     text-align: center;
     color: var(--text-secondary);
     font-size: 0.95rem;
@@ -372,12 +372,20 @@ html[data-lang="en"] .lang-zh:not(.bilingual > span) {
     -webkit-backdrop-filter: blur(12px);
     border-top: 1px solid var(--card-border);
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    transition: background 0.4s ease;
+}
+
+.footer-row {
+    display: flex;
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    flex-wrap: nowrap; /* 確保內容不會換行導致高度異常 */
+    flex-wrap: nowrap;
     white-space: nowrap;
-    transition: background 0.4s ease;
 }
 
 [data-theme="light"] .footer {
@@ -414,4 +422,57 @@ html[data-lang="en"] .lang-zh:not(.bilingual > span) {
         top: 1.5rem;
         right: 1.5rem;
     }
+}
+
+/* Subtitle for Author Name */
+.card-subtitle {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    margin-top: -1.5rem;
+    margin-bottom: 2rem;
+    font-weight: 500;
+}
+
+/* Disabled Card (Under Construction) */
+.disabled-card {
+    cursor: not-allowed;
+    opacity: 0.8;
+}
+
+.disabled-card:hover {
+    background: var(--card-bg) !important;
+    border-color: var(--card-border) !important;
+    box-shadow: none !important;
+}
+
+.disabled-card:hover::before {
+    opacity: 0 !important;
+}
+
+.disabled-card:hover .icon-wrapper {
+    background: var(--icon-bg) !important;
+    border-color: var(--card-border) !important;
+}
+
+.disabled-card:hover .icon-wrapper svg {
+    stroke: var(--color2) !important;
+}
+
+.disabled-card .btn-primary,
+.disabled-card:hover .btn-primary {
+    background: rgba(0, 0, 0, 0.2) !important;
+    border-color: rgba(255, 255, 255, 0.05) !important;
+    color: var(--text-secondary) !important;
+    opacity: 0.7;
+}
+
+[data-theme="light"] .disabled-card .btn-primary,
+[data-theme="light"] .disabled-card:hover .btn-primary {
+    background: rgba(0, 0, 0, 0.05) !important;
+    border-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+.disabled-card .arrow,
+.disabled-card:hover .arrow {
+    display: none !important;
 }

@@ -15,7 +15,7 @@
         },
         {
             "id": "green-healing",
-            "url": "https://alinggolee.github.io/GreenHealing/",
+            "url": "",
             "title": {
                 "zh": "綠色療癒",
                 "en": "Green Healing"
@@ -41,6 +41,12 @@
             "labelEn": "Funding",
             "valueZh": "臺科大EMI中心",
             "valueEn": "NTUST EMI TLC"
+        },
+        {
+            "labelZh": "聯繫",
+            "labelEn": "Contact",
+            "valueZh": "alinggo@gmail.com",
+            "valueEn": "alinggo@gmail.com"
         }
     ]
 }
