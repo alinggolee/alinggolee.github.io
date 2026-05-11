@@ -64,6 +64,8 @@ if (savedTheme) {
 const savedLang = localStorage.getItem('lang');
 if (savedLang) {
     setLanguage(savedLang);
+} else {
+    setLanguage('en');
 }
 
 // Fetch Config and Render Cards
@@ -140,10 +142,23 @@ function renderCards(sites) {
         a.style.setProperty('--glow', theme.glow);
         a.style.setProperty('--glow-light', theme.glowLight);
 
-        a.innerHTML = `
+        let imageHtml = '';
+        if (site.image && site.image.trim() !== '') {
+            imageHtml = `
+            <div class="image-wrapper">
+                <img src="${site.image}" alt="${titleEn}" class="card-image">
+            </div>
+            `;
+        } else {
+            imageHtml = `
             <div class="icon-wrapper">
                 ${site.iconSvg}
             </div>
+            `;
+        }
+
+        a.innerHTML = `
+            ${imageHtml}
             <h2 class="card-title bilingual">
                 <span class="lang-zh">${titleZh}</span>
                 <span class="lang-en">${titleEn}</span>
